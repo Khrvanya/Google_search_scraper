@@ -93,7 +93,8 @@ scraped size is wrong <br />
 <br /> <br />
 <br />
 ### P.S. 
-There would be a lot of warnings but don't mind them)
+There would be a lot of warnings but don't mind them)\
+Of course there are still some bugs but I am workimg on them. Good luck) 
 
 
 
