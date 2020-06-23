@@ -25,9 +25,10 @@ countries on diffrent languages.
 If you want to scrape videos or photos from google, you may
 consider some of the structures or functions
 
-\
-\
-#### *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
+
+
+
+### *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
 *list_of_queries*: is a list of strings which would be googled (usually are almost identical since they make a single category), example:
 ['flowers', 'many roses', 'love'] or ['peace'] == 'peace' (it could be just one word)
@@ -43,9 +44,8 @@ scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same \
 scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
 
 \
-\
 You could also run it from terminal, printing: \
-*scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* \
+### *scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* \
 where arguments are the same just given as 
 'query_1, query_2' and 'number_q1, number_q2' 
 
@@ -54,8 +54,8 @@ python scrape_queries.py 'flowers, feelings' '100'     or the same\
 python scrape_queries.py 'flowers, feelings' '100, 100'
 
 
-\
-\
+
+
 ### Now lets get deeper in some details:
 
 Google search limitation:
