@@ -27,7 +27,7 @@ consider some of the structures or functions
 
 \
 \
-*scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
+#### *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
 *list_of_queries*: is a list of strings which would be googled (usually are almost identical since they make a single category), example:
 ['flowers', 'many roses', 'love'] or ['peace'] == 'peace' (it could be just one word)
@@ -37,12 +37,10 @@ each int is for query in the first list and stands for the number
 of first links that would be scraped from the Google search pages, example:
 [100, 150, 30] or [100, 100, 100] == 100
 		
-Examples: \
+#### Examples: 
 scrape_query_news_articles(['flowers', 'roses'], [200, 100]) \
 scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same \
 scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
-
-
 
 \
 \
@@ -52,13 +50,12 @@ where arguments are the same just given as
 'query_1, query_2' and 'number_q1, number_q2' 
 
 #### Examples: 
-\
 python scrape_queries.py 'flowers, feelings' '100'     or the same\
 python scrape_queries.py 'flowers, feelings' '100, 100'
 
 
-
-
+\
+\
 ### Now lets get deeper in some details:
 
 Google search limitation:
