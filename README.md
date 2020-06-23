@@ -29,9 +29,9 @@ consider some of the structures or functions
 *list_of_queries*: is a list of strings which would be googled (usually are almost identical since they make a single category), example:
 ['flowers', 'many roses', 'love'] or ['peace'] == 'peace' (it could be just one word)
 
-*list_of_links_number_for_queries*: is a list of integers % 10 = 0
+*list_of_links_number_for_queries*: is a list of integers % 10 = 0, 
 each int is for query in the first list and stands for the number 
-of first links that would be scraped from the Google search pages, like:
+of first links that would be scraped from the Google search pages, example:
 [100, 150, 30] or [100, 100, 100] == 100
 		
 Examples:
@@ -40,8 +40,7 @@ scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same
 scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
 
 You could also run it from terminal, printing:
-scrape_query_news_articles(argv[1].split(', '), 
-									[int(c) for c in argv[2].split(', ')])
+*scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)*
 where arguments are the same just given as 
 'query_1, query_2' and 'number_q1, number_q2' 
 
