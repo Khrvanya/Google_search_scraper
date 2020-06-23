@@ -3,8 +3,8 @@ Scrapes links from Google search pages
 
 This is a Google Search scraper. I needed news dataset for any query (category) possible 
 so I ended up scraping google's results using Selenium. 
-If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__
-
+If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__ <br />
+<br />
 
 To start with, if you just need english news dataset on specific topic you may run:
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
@@ -41,9 +41,10 @@ of first links that would be scraped from the Google search pages, example:
 #### Examples: 
 scrape_query_news_articles(['flowers', 'roses'], [200, 100]) \
 scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same \
-scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
+scrape_query_news_articles(['flowers', 'feelings'], [100, 100]) <br /> <br />
 
-\
+
+
 You could also run it from terminal, printing: 
 ### *scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* 
 where arguments are the same just given as 
