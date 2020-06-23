@@ -1,5 +1,5 @@
 # Google_search_scraper
-Scrapes links from Google search pages 
+Scrapes links **from **Google search pages 
 
 
 This is a Google Search scraper. I needed news dataset for any query (category) possible 
