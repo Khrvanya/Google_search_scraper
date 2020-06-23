@@ -6,9 +6,6 @@ so I ended up scraping google's results using Selenium.
 If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__
 
 
-
-\
-\
 To start with, if you just need english news dataset on specific topic you may run:
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
 and have: *queries* folder in the same folder with *scrape_queries.py* file. After ending
@@ -17,16 +14,19 @@ If there are problems with requirements, look in the code there might be some li
 Also change line 421 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
 However you'll have problems with recaptcha if you parse > ~300 links (read more below)
 
-\
+
 If you want to scape other google search stuff consider my 
 scrape_query_news_articles() function. You can change it a bit and scrape 
 text from other google search categories (news, videos, all) from different 
 countries on diffrent languages. 
 If you want to scrape videos or photos from google, you may
-consider some of the structures or functions
+consider some of the structures or functions <br />
 
 
 
+
+            
+<br />
 
 ### *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
@@ -44,8 +44,8 @@ scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same \
 scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
 
 \
-You could also run it from terminal, printing: \
-### *scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* \
+You could also run it from terminal, printing: 
+### *scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* 
 where arguments are the same just given as 
 'query_1, query_2' and 'number_q1, number_q2' 
 
