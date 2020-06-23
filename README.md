@@ -1,11 +1,13 @@
 # Google_search_scraper
 Scrapes links from Google search pages 
 
-
 This is a Google Search scraper. I needed news dataset for any query (category) possible 
 so I ended up scraping google's results using Selenium. 
 If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__
 
+
+
+\
 \
 To start with, if you just need english news dataset on specific topic you may run:
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
@@ -15,6 +17,7 @@ If there are problems with requirements, look in the code there might be some li
 Also change line 421 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
 However you'll have problems with recaptcha if you parse > ~300 links (read more below)
 
+\
 If you want to scape other google search stuff consider my 
 scrape_query_news_articles() function. You can change it a bit and scrape 
 text from other google search categories (news, videos, all) from different 
@@ -22,6 +25,7 @@ countries on diffrent languages.
 If you want to scrape videos or photos from google, you may
 consider some of the structures or functions
 
+\
 \
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
@@ -47,14 +51,15 @@ You could also run it from terminal, printing: \
 where arguments are the same just given as 
 'query_1, query_2' and 'number_q1, number_q2' 
 
-Examples: \
+#### Examples: 
+\
 python scrape_queries.py 'flowers, feelings' '100'     or the same\
 python scrape_queries.py 'flowers, feelings' '100, 100'
 
 
- 
-\
-Now lets get deeper in some details:
+
+
+### Now lets get deeper in some details:
 
 Google search limitation:
 Each query in Google search has ~350 links results
