@@ -1,5 +1,5 @@
 # Google_search_scraper
-Scrapes links **from **Google search pages 
+Scrapes links from Google search pages 
 
 
 This is a Google Search scraper. I needed news dataset for any query (category) possible 
@@ -9,7 +9,7 @@ If you have any questions or ideas you are welcome to write me: __khrvanya@gmail
 
 To start with, if you just need english news dataset on specific topic you may run:
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
-and have *queries* folder in the same folder with *scrape_queries.py* file. After ending
+and have: *queries* folder in the same folder with *scrape_queries.py* file. After ending
 there would be a new folder with your dataset (.txt files) in the *queries* folder.
 If there are problems with requirements, look in the code there might be some links to help)
 Also change line 421 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
