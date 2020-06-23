@@ -67,7 +67,7 @@ a few queries. Thats why I've made a query list.
 
 #### Recaptcha:
 If you want to scrape a lot of articles, like: \
-*scrape_query_news_articles(*['rose', 'roses', 'flowers', 'feelings', 'love'], 300*)* \
+*scrape_query_news_articles(*['rose', 'roses', 'flowers', 'feelings', 'love'], 300 *)* \
 Google would consider you to be a robot ~3 times, so you need to solve
 recaptcha somehow. I tried, but it fucked me. So I found some automated stuff
 where people solve captchas remotely for you. It costs ~2.2$ for 1000 recaptchas \
@@ -89,8 +89,10 @@ google search has less results than you needed\
 google search has links repeats of other queries\  
 scraped language is wrong\
 scraped size is wrong <br />
+<br /> <br />
 <br />
-P.S. There would be a lot of warnings but don't mind them)
+### P.S. 
+There would be a lot of warnings but don't mind them)
 
 
 
