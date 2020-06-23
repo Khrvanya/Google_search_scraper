@@ -86,7 +86,8 @@ QUERIES_PATH = os.path.join(CURR_PATH, 'queries') <br />
 #### Why there are less articles scrapes than links scraped:
 Scrape wasn't dumped if:\
 google search has less results than you needed\
-google search has links repeats of other queries\  
+google search has links repeats of other queries\
+link has some error\
 scraped language is wrong\
 scraped size is wrong <br />
 <br /> <br />
