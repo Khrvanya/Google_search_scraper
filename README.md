@@ -8,12 +8,12 @@ If you have any questions or ideas you are welcome to write me: __khrvanya@gmail
 
 
 To start with, if you just need english news dataset on specific topic you may run:
-scrape_query_news_articles(list_of_queries, list_of_links_number_for_queries)
-and have directory 'queries' in the same dir with .py file. After ending
-there would be a dir in the 'queries' with your dataset (.txt files)
-If there are problems with requirements, look in the code
-Also change 420 line to run_chromedriver() 
-However you'll have problems with recaptcha if you parse > ~300 links (read below)
+*scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
+and have *queries* folder in the same folder with *scrape_queries.py* file. After ending
+there would be a new folder with your dataset (.txt files) in the *queries* folder.
+If there are problems with requirements, look in the code there might be some links to help)
+Also change line 421 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
+However you'll have problems with recaptcha if you parse > ~300 links (read more below)
 
 If you want to scape other google search stuff consider my 
 scrape_query_news_articles() function. You can change it a bit and scrape 
