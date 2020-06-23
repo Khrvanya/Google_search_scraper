@@ -6,7 +6,7 @@ This is a Google Search scraper. I needed news dataset for any query (category) 
 so I ended up scraping google's results using Selenium. 
 If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__
 
-
+\
 To start with, if you just need english news dataset on specific topic you may run:
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)*
 and have: *queries* folder in the same folder with *scrape_queries.py* file. After ending
@@ -22,8 +22,7 @@ countries on diffrent languages.
 If you want to scrape videos or photos from google, you may
 consider some of the structures or functions
 
-
-
+\
 *scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
 *list_of_queries*: is a list of strings which would be googled (usually are almost identical since they make a single category), example:
@@ -34,22 +33,27 @@ each int is for query in the first list and stands for the number
 of first links that would be scraped from the Google search pages, example:
 [100, 150, 30] or [100, 100, 100] == 100
 		
-Examples:
-scrape_query_news_articles(['flowers', 'roses'], [200, 100])
-scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same
+Examples: \
+scrape_query_news_articles(['flowers', 'roses'], [200, 100]) \
+scrape_query_news_articles(['flowers', 'feelings'], 100)   or the same \
 scrape_query_news_articles(['flowers', 'feelings'], [100, 100])
 
-You could also run it from terminal, printing:
-*scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)*
+
+
+\
+\
+You could also run it from terminal, printing: \
+*scrape_query_news_articles(*argv[1].split(', '), [int(c) for c in argv[2].split(', ')]*)* \
 where arguments are the same just given as 
 'query_1, query_2' and 'number_q1, number_q2' 
 
-Examples:
-python scrape_queries.py 'flowers, feelings' '100'     or the same
+Examples: \
+python scrape_queries.py 'flowers, feelings' '100'     or the same\
 python scrape_queries.py 'flowers, feelings' '100, 100'
 
 
-
+ 
+\
 Now lets get deeper in some details:
 
 Google search limitation:
