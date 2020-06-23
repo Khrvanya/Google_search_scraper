@@ -23,6 +23,7 @@ If you want to scrape videos or photos from google, you may
 consider some of the structures or functions
 
 
+
 scrape_query_news_articles() parametrs:
 
 list_of_queries: is a list of strings which would be googled, like:
