@@ -24,14 +24,14 @@ consider some of the structures or functions
 
 
 
-_scrape_query_news_articles(list_of_queries, list_of_links_number_for_queries)_ parametrs:
+*scrape_query_news_articles(*list_of_queries, list_of_links_number_for_queries*)* parametrs:
 
-list_of_queries: is a list of strings which would be googled, like:
-['flowers', 'many roses', 'love'] or ['peace'] == 'peace'
+*list_of_queries*: is a list of strings which would be googled (usually are almost identical since they make a single category), example:
+['flowers', 'many roses', 'love'] or ['peace'] == 'peace' (it could be just one word)
 
-list_of_links_number_for_queries: is a list of integers%10 = 0
+*list_of_links_number_for_queries*: is a list of integers % 10 = 0
 each int is for query in the first list and stands for the number 
-of first links that would be parsed from the gsearch, like:
+of first links that would be scraped from the Google search pages, like:
 [100, 150, 30] or [100, 100, 100] == 100
 		
 Examples:
