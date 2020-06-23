@@ -24,7 +24,7 @@ consider some of the structures or functions
 
 
 
-_scrape_query_news_articles()_ parametrs:
+_scrape_query_news_articles(list_of_queries, list_of_links_number_for_queries)_ parametrs:
 
 list_of_queries: is a list of strings which would be googled, like:
 ['flowers', 'many roses', 'love'] or ['peace'] == 'peace'
