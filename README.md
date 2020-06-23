@@ -1,10 +1,10 @@
 # Google_search_scraper
-Scrapes Google search pages links
+Scrapes links from Google search pages 
 
 
-This is a Google Search scraper. I needed news dataset for any query (category) so 
-I ended up scraping google's results using Selenium. If you have any questions or 
-ideas you are welcome to write me: __khrvanya@gmail.com__
+This is a Google Search scraper. I needed news dataset for any query (category) possible 
+so I ended up scraping google's results using Selenium. 
+If you have any questions or ideas you are welcome to write me: __khrvanya@gmail.com__
 
 
 To start with, if you just need english news dataset on specific topic you may run:
