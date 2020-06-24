@@ -1,0 +1,27 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The most popular way to use bitcoin off-chain is on Ethereum, recent data indicates.
+Since 2016, software engineers have worked to extend the oldest and largest cryptocurrency’s use cases through a variety of companion protocols, like the Lightning Network for payments or the Liquid Network for trading. But to date, the most popular off-chain protocols that use bitcoin (the currency, with a small “b” ) run on the largest rival to Bitcoin (the network, uppercase).
+In fact, Ethereum projects including WBTC and imBTC hold 70% more bitcoins than Lightning or Liquid.
+This is “ironic” to Camila Russo, author of “ The Infinite Machine “, a forthcoming book about Ethereum, but she’s not surprised.
+Ethereum was designed to be “more flexible,” Russo explained, which allows these tokenized protocols to “thrive.” Bitcoin, on the other hand, was built “to do one thing well, which is to transfer value trustlessly and in a censorless way.”
+“Tokenized bitcoins,” as these projects are called, allow users to denominate in bitcoin when transacting in the Ethereum network’s emerging ecosystem of decentralized financial products. Instead of using ether (Ethereum’s native currency) to make loans or earn interest, for example, transactions are, in effect, made with bitcoin.
+The supply of tokenized bitcoin has grown 330% year to date.
+It’s important to note that the total amount of BTC held off the Bitcoin blockchain by both Ethereum- and Bitcoin-based protocols is tiny – only 8,285 BTC (worth $79 million as of Wednesday) – relative to the 18.4 million BTC issued since 2009.
+Recent growth in tokenized bitcoin on Ethereum is “only the beginning,” said Jack Purdy, a decentralized finance analyst at Messari.
+“Ethereum has an incredibly diverse set of financial applications built on it,” Purdy explained. “We’re going to start seeing a multitude of other use cases as the market for bitcoin on Ethereum continues to grow.”
+Despite the disparate growth levels between protocols using bitcoins off the Bitcoin blockchain, some tokenized bitcoin projects see themselves as complementary to – instead of in competition with – Bitcoin’s Lightning and Liquid networks.
+“Wrapped Bitcoin represents a digital asset – bitcoin – on the Ethereum chain, and is really complementary to Lightning,” said Kiarash Mosayeri, product manager at crypto custodian BitGo, which helped spearhead WBTC at launch in January 2019.
+Growth on Ethereum- or- Bitcoin-based off-chain protocols will “drive adoption and increase the network effect for Bitcoin, attracting more applications and developers in the space,” Mosayeri said.
+Built on Bitcoin, Lightning and Liquid also aim to extend the leading cryptocurrency’s utility, similar to the goals of tokenized bitcoin projects. But these protocols have a narrower focus of improving the speed and privacy of small and large off-chain bitcoin transactions, respectively.
+“Both approaches offer different capabilities and security tradeoffs,” said Matt Luongo, CEO of Thesis, which launched tBTC in May. “I’m a huge fan of the Lightning Network, and I believe it will become more and more relevant in commerce and in new applications like gaming.”
+Growing interest in using bitcoin on other blockchains shows that “there is interest in building more advanced features that might not be directly realizable on the Bitcoin blockchain itself,” said Christian Decker, engineer and researcher at Blockstream, the technology company that launched the Liquid Network and the c-lightning implementation of Lightning.
+Both types of off-chain protocols are important, explains Olivia Lovenmark, previously at BitGo and Thesis.
+“Tokenized protocols like tBTC and wBTC can be more personally exciting because they expand a bitcoin holder’s financial options, whereas tokenless protocols, like Lightning, improve network infrastructure, which is broadly a community benefit,” said Lovenmark.
+Is this good for Bitcoin?
+Ultimately, whether on Ethereum or Bitcoin, recent growth suggests users want to transact in bitcoin.
+According to Decker, interest in using bitcoin on other blockchains is “a strong signal that the interest in Bitcoin itself is increasing, and that other tokens are losing ground when it comes to bitcoins.”
+“I’m not really surprised that users on Ethereum are looking to get exposure to bitcoin, but don’t want to switch over to the Bitcoin network,” Decker added. “That’d also explain why these wrapped bitcoins exist on Ethereum and not on Bitcoin, since the base functionality of Bitcoin already covers what the users are looking for.”
+Regardless of the motivations behind tokenized bitcoin projects, these Ethereum-based protocols could benefit bitcoin through broader adoption, Lovenmark said.
+“Growth of off-chain Bitcoin protocols means greater optionality for holders,” she said. “This increases use cases for bitcoin and, thus, adoption.”
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

@@ -1,0 +1,59 @@
+One-liner: The first smart contract platform, and still the biggest in terms of developer activity.
+Ethereum was the first blockchain to be developed with a Turing-complete scripting language, Solidity. It was the brainchild of programmer Vitalik Buterin , who recognized the vast potential of blockchain technology through his early engagement with Bitcoin . However, after failing to convince Bitcoin core developers that the platform needed application development functionality, he wrote the white paper for Ethereum.
+The founding team comprises Buterin, Anthony Di Iorio, Charles Hoskinson , Mihai Alisie, Amir Chetrit, Gavin Wood, Joseph Lubin , and Jeffrey Wilke. Several of these members have since left Ethereum to work on their own projects.
+Ethereum is the current leader of smart contract space and provided a blueprint for many of its successors. It was the first blockchain to gain any significant traction with enterprise adoption, thanks in part to the formation of the Enterprise Ethereum Alliance , which boasts members including Samsung, Intel, and JP Morgan.
+Ethereum is also the central hub of the decentralized finance movement, home to some of crypto’s biggest dApps, including Maker and Compound .
+Over the years, Ethereum has weathered several significant events, the most notable of which is The DAO incident in 2016, where a hacker exploited a vulnerability in a smart contract and stole $50 million worth of ETH.
+The fallout from the incident resulted in a divide in the Ethereum community, with one side supporting a rollback of the blockchain to reclaim the funds, and the other side declaring that “code is law.” A controversial hard fork ensued, resulting in the formation of the Ethereum Classic blockchain.
+The biggest challenge facing Ethereum, however, has been its lack of scalability. Despite being one of the most-used blockchains, it frequently suffers from network congestion. Perhaps due to a highly decentralized approach to core development, upgrades are slow to arrive and often beset by delays.
+The current upgrade, dubbed ETH 2.0 , has been slated for the first phase of implementation in July 2020.
+The native token of the platform is ether (ETH), which is the second-biggest cryptocurrency by market cap. Ether is also used to pay the gas fees required for transactions on the platform.
+Founder: Diego Gutiérrez Zaldívar (now CEO of IOV Labs), Sergio Lerner, Gabriel Kurman, Adrian Eidelman, and Ruben Altman
+Date of creation: RSK was founded in 2016 and launched in 2018.
+One-liner: Smart contract platform running as a sidechain of the Bitcoin blockchain.
+RSK operates as a sidechain of the Bitcoin blockchain and is merge-mined with Bitcoin. It was developed to bring Ethereum-like smart contract functionality to the Bitcoin network.
+Diego Gutierrez Zaldivar, CEO and founder, describes the RSK vision to Crypto Briefing as:
+“We developed RSK to add value and expand functionality to the Bitcoin ecosystem by providing smart contracts functionality and greater scalability, establishing the layer needed for Bitcoin to  become the financial system of the future.”
+The RBTC token is pegged 1:1 with Bitcoin and is the native token of the RSK platform, used to pay for the gas to execute transactions.
+RSK now operates as part of a technology stack with the Bitcoin network as a base layer. The RSK Infrastructure Framework (RIF) layer runs on top of RSK, providing a marketplace of developer tools. These include storage, payments, and a naming service.
+RSK hasn’t gained the same traction as Ethereum in the North American and European markets. However, it does have a far bigger footprint in its native Latin America.
+The company that operates RSK, IOV Labs , last year acquired Taringa , the biggest social network in Latin America with over 30 million users. It’s also the platform of choice for Money on Chain , which operates the Dollar on Chain stablecoin and has recently expanded into offering stablecoins collateralized by the RIF token.
+— MoneyOnChain ⚡ – DeFi for Bitcoin (@moneyonchainok) April 7, 2020
+RSK can scale up to around 400 transactions per second. However, some of the tools available on the RIF layer can run even faster. For example, the Lumino payments protocol can handle up to 5,000 transactions per second.
+The RBTC token is merge-mined with Bitcoin, and the RSK network has previously managed to gather around 45% of the Bitcoin network hashrate, making it highly secure compared to many other platforms dependent on a smaller number of miners or nodes.
+Date of creation: Launched on mainnet in January 2018.
+One-liner: “Parent-and-child chain” architecture with lightweight smart contract capabilities and no blockchain bloat.
+Ardor is operated by Jelurida and has its roots in the Nxt blockchain , which was one of the first PoS networks and has been running since 2013. Ardor was created by the same team to overcome the adoption challenges of traditional linear blockchain architecture.
+These include the use of a single token, a lack of customization capability, and blockchain bloating as a result of processing and storing every single transaction in the same way.
+Ardor aims to overcome this with an architecture that comprises the main parent chain and child chains. Each child chain is entirely customizable according to user requirements and can use its own token. Ardor also makes use of stateless, lightweight smart contracts programmed in Java.
+Lior Yaffe , Core Developer and Co-Founder of Ardor, explains the lightweight smart contracts as follows:
+“The contract code itself is a simple Java class uploaded to the blockchain and therefore digitally signed and time stamped. However, the execution of the contract is only performed by nodes who choose to run the Contract Runner addon. This removes the need for ‘metered’ execution using the gas model and removes the risk of systematic failure in case the contract malfunctions.”
+“Furthermore, this enables contracts to work as oracles, to freely integrate with external systems and thus removes the need for a separate layer of oracles.”
+The first and main child chain of Ardor is Ignis, which offers unique features and functions across other child chains operating on the Ardor network. These include asset issuance and user account configuration. Ignis also provides various on-chain features, including a voting system, exchange, and data cloud.
+Ardor and Ignis each operate their own tokens, under the tickers ARDR and IGNIS , respectively.
+One-liner: Plasma and PoS side chains create a scalable layer 2 for the Ethereum network.
+Matic Network is a layer 2 scaling solution that utilizes sidechains for off-chain computation. T
+he network is secured through an adapted version of the Plasma framework and a decentralized network of Proof-of-Stake (PoS) validators.
+Jaynti Kanani, a co-founder of Matic, describes the vision of the project as follows:
+“Matic aims to overcome the scalability and usability-related problems of the blockchain space by leveraging a combination of blockchain scaling, developer platform and tools, and a keen focus on user experience. We believe the answer to enabling widespread adoption of blockchain technology lies with second-layer solutions focused on scalability. Thus, Matic Network provides massive scaling capabilities whilst leveraging the security and decentralization of the Ethereum mainchain.”
+Matic Network achieves significant scalability, with a throughput of 65,000 transactions per second without compromising on decentralization.
+The project achieved early recognition from some of the biggest names in crypto, with both Coinbase Venture and Binance Labs providing financial backing.
+Before launching its mainnet on Jun. 3, 2020, Matic had already attracted more than 50 dApps, making it the most adopted layer 2 platform in the space. dApps on Matic encompass a variety of niches ranging from gaming to DeFi, with notable projects including Decentraland and whitelabel betting platform BetProtocol .
+The network’s token, MATIC, is used in a similar way to Ethereum to pay gas fees for transactions.
+Whitepaper author: Douglas Horn (now founder of block producer, GoodBlock).
+Date of creation: The Telos Mainnet was launched on Dec. 12, 2018, by the Telos Launch Group.
+One-liner: Telos is a dPoS blockchain based on EOSIO software with a focus on governance.
+The Telos network was created to combine flexible governance and high transaction speeds using EOSIO software. Telos never held an ICO and has been a community-driven bootstrapped project since inception.
+With a network capable of handling 8,000 transactions per second, the Telos platform attracted gaming apps Angry Warlords and BLOX to its platform.
+With governance credentials that rival those of Tezos, Telos has also attracted several dApps for social good in its first year. Sesacash allows cross-currency conversions in Africa. Seeds is an experiment in regenerative money that incentivizes people to behave in environmentally-friendly ways. And, finally, Murmur, a blockchain-based social network, recently switched from EOS to Telos to take advantage of lower-cost transactions.
+Telos lacks the profile of some of the other top smart contract platforms, but its feature-rich network and commitment to governance could give it an edge over the long run.
+The network aligns itself with what it sees as a future economy built on interconnected smart contracts governed by its users. In the words of whitepaper author Douglas Horn:
+“The dApps coming to Telos or emerging from our own Telos Works incubator are leveraging the massive speed and capacity, functional governance, and unique tools available to any dApp on Telos, like the Telos Decide governance engine. A significant portion of developers has also expressed to us that the ethos of Telos as a truly decentralized, egalitarian, and forward-thinking platform that has managed to build itself and foster other projects without an ICO or centralized ownership is an important area of alignment with their own aims.”
+Date of creation: EOS was launched in January 2018.
+One-liner: EOS is a dPoS blockchain based on EOSIO software. It is also a top smart contract platform.
+The EOS blockchain protocol is powered by the EOS token, which has consistently ranked in the top ten in terms of market cap since its launch in January 2018. Fueled by a record-setting $4 billion ICO, the EOS network emulates computing resources, including CPU, GPU, and RAM, all of which are supported by EOS token holders.
+Larimer developed the delegated Proof-of-Stake (dPoS) consensus mechanism, whereby EOS token holders vote 21 block producers (BPs) to operate the network, with standby contenders on notice to assist if required.
+Adrianna Mendez of Cypherglass , a founding EOS block producer and paid stand by BP, told Crypto Briefing that:
+“EOS continues to showcase the potential of delegated proof of stake. Two years after its launch, it’s the most used and fastest-growing blockchain in the world. The possibilities for developers are endless.”
+Delegated PoS offers speed and scalability advantages over pure PoS consensus mechanisms. Games and gambling apps dominate the top 20 apps on EOS, although a decentralized exchange, Newdex , boasts daily volumes around $15 million.
+Block.one, the company behind the network, also operates a venture capital arm and launched a beta version of Voice in early 2019, a social media network poised to rival Facebook.

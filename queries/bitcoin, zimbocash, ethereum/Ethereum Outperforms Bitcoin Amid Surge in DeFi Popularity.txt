@@ -1,0 +1,10 @@
+Ethereum has continued to outperform bitcoin relative to the US Dollar since the end of May.
+DeFi projects have experienced a surge in popularity in part due to anticipation for Ethereum 2.0.
+Ethereum, the second-largest cryptoasset by market capitalization, has continued to outperform bitcoin since the end of May amidst a resurgence in decentralized finance (DeFi) popularity.
+According to data from CryptoCompare, ether has experienced a 14.56% riseagainst the dollar over the last 30 days, compared to just 3.44% for bitcoin.
+Ethereum has outperformed bitcoin relative to the dollar | Source: CryptoCompare
+Data collected by DeFi Pulse shows the total value locked in decentralized financial systems reached an all-time high last week. DeFi now accounts for $1.53 billion in total funds, compared to the previous high of $1.24 billion set in February 2020.
+Since taking off on June 14, the total amount of ether, bitcoin, and dai locked in DeFi has surged more than 58%.
+Speaking in an interview with CoinTelegraph, DappRadar communications director Jon Jordan claimed the rising popularity for DeFi is in part being driven by anticipation for the launch of Ethereum 2.0.
+Two of the main obstacles to making dapps on Ethereum easier to understand and use are gas fees and slow block times. Ethereum 2.0 will fundamentally solve these, making Ethereum dapps feel much more like using the standard web and mobile apps we’re all used to.
+An earlier report by Forbes found a similar trend in interest for DeFi projects, saying the novel form of lending and saving has generated positive media coverage and praise.

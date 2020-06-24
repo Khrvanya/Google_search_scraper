@@ -1,0 +1,18 @@
+Many DeFi smart contracts can withdraw unlimited amounts of money from user wallets, potentially spelling disaster.
+A vulnerability discovered on Bancor on Thursday would have allowed hackers to simply drain the funds of anyone who interacted with its smart contracts. The exploit relied on the concept of withdrawal authorization, introduced in the ERC-20 standard. This allows various Ethereum-based decentralized applications to automatically withdraw money from users’ wallets.
+As Oded Leiba, a research engineer at ZenGo, wrote , the fund withdrawal function on Bancor’s smart contract was mistakenly set so that anyone could call it.
+Bancor acted preemptively to “steal” user funds before malicious parties could intervene.
+Compounding this issue was the fact that Bancor’s contracts requested an unlimited authorization to withdraw money on the first interaction with the protocol. Even if users only planned to test the protocol with a limited amount of funds, the system could withdraw their entire balance of that particular token.
+As it turns out, many other DApps on Ethereum do the same.
+As Leiba told Cointelegraph, many well-known decentralized finance apps request infinite approvals. Among those tested by the ZenGo team, Compound, Uniswap, bZX, Aave, Kyber and dYdX all feature infinite or extremely large approvals.
+Kain Warwick, the founder of Synthetix, told Cointelegraph that infinite approvals allow for better usability and lower gas usage, with the trade-off of higher risk. So far, most DeFi platforms seem to prefer usability . Nevertheless, in the wake of the accident, Bancor decided to modify its contracts to only approve the necessary amount with each trade.
+Cointelegraph also contacted Aave to learn more about their decision to use infinite allowances but did not receive a response.
+Even when the platform is no longer used, approvals remain in force. Leiba noted that over 160 addresses remain vulnerable to the bugged Bancor smart contract — presumably with no funds. Should they return to activity, however, hackers would be able to steal the money at any point in time.
+There are fundamental limitations to the ERC-20 token standard commonly used today. For one, approvals cannot have a time limit, which could have helped mitigate some of the longer-term effects of infinite allowances.
+Various competing standards such as ERC-223 sought to mitigate the issue by removing the need to grant approvals altogether. In most existing applications, interactions with a smart contract can be manually signed off each time without significantly impacting the user experience.
+However, smart contracts cannot respond to unilateral “transfer” calls made by a user. They must instead collect the tokens on their own by using the “transferFrom” function, which requires setting up the allowance via the “approve” method.
+Warwick explained that the team initially used the more advanced ERC-223 standard. However, issues with excessive gas usage and errors with contracts that didn’t support the new standard forced the community to abandon it. He added:
+Some wallets allow users to modify the specific amount of the allowance during the approval request — though few clearly disclose what the default value is. ZenGo implemented a system where approvals are sent concurrently with each transfer, which can help protect users at the cost of higher gas usage.
+Warwick shared his security practices:
+“I do give contracts infinite approvals but I am very careful which of my accounts I do it with and to which contracts I give it to because it is less friction, but much higher risk.”
+He also suggested that it is “worth doing maintenance” by removing allowances on unused contracts through tools such as Revoke, Approved Zone and TAC.

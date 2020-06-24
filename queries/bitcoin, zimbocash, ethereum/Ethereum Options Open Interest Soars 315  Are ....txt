@@ -1,0 +1,31 @@
+Ethereum Options Open Interest Soars 315% — Are Institutions Bullish?
+Open interest on Ethereum options contracts surged 315% to $158 million, but are investors using derivatives for bullish or bearish positions?
+Ether ( ETH ) options were launched over a year ago at Deribit derivatives exchange but they have only recently gained traction.
+Open interest is the main gauge for derivative contracts activity, and on Ether options it has soared by 315% over the past two months to $158 million.
+This surge in OI has many retail investors issuing bullish calls for Ether’s future price but it's important that participants take a deeper look behind the numbers.
+Deribit ETH option open interest. Source: Skew
+This open interest figure doesn’t necessarily mean that professional investors are either bullish or bearish.
+As previously reported by Cointelegraph, call options provide buyers an opportunity to leverage without running the risk of liquidation. Meanwhile, put options are an excellent way to hedge against a future potential sell-off.
+Ethereum sending addresses (7-day MA). Source: glassnode
+There have been some bullish signals from active ETH sending addresses and the metric recently reached its highest level in a year. As reported earlier this week, Grayscale’s Ethereum Trust has also accumulated over $110 million worth of Ether throughout 2020.
+Taking a closer look at the options open interest put and call ratio also provides valuable insight into derivatives trading activity that supports the current bullish market sentiment.
+Deribit ETH options open interest for June 26. Source: Deribit
+To better gauge market sentiment, investors should measure open interest exclusively on contracts with more realistic odds. Call (bullish) options above $260 and put (bearish) calls below $200 don’t seem very likely to happen over the next 12 days, hence the market pricing them below $2.
+For this specific expiry, there are 50,000 call contracts versus 40,000 put contracts within the range of interest which is circled in red on the chart above. This is a slightly bullish signal, especially when 17,000 call option contracts will enter the money if Ether surpasses $240.
+Deribit ETH options open interest for July 31. Source: Deribit
+The same analysis for the July contract tells a different story as there are only 14,000 open call (bullish) contracts up to a +20% price range. Meanwhile, there are 16,700 open put (bearish) contracts. This signals investors are slightly bearish for the expiry.
+As the maturity date draws closer analysts will be able to obtain a better view as most action is still focused on the June contract, hence the measurement of the outstanding open interest.
+Reviewing long and short ratios at exchanges provides useful data to measure investor sentiment. In this instance, analyzing the margin leveraged trade charts for both the ETH/USD and ETH/BTC pair is necessary.
+As shown above, the ETH/USD longs are almost two times larger than shorts. The same can also be observed with the ETH/BTC longs which are also 2x larger than shorts.
+Other exchanges such as OKEx have other measurements of users’ net positions for derivatives contracts.
+The chart below indicates that future Ether contracts have mostly been used to leverage long positions. Despite a recent drop in this indicator, longs exceeded shorts by a 7% margin.
+What about open interest on Ether futures?
+ETH Futures Aggregate Open Interest. Source: Skew
+Open interest on Ether futures contracts increased by 67% in the past two months to $671 million as measured by data from Skew.
+An important point to note is that every futures contract trade needs a buyer and seller of the same size, meaning there is no way to infer what net exposure professional traders are aiming for.
+Liquid futures markets provide an instrument for large investors to quickly build positions, or hedge existing ones. This open interest increase is definitively a sound signal of professional investors’ appetite but it would be a mistake to simply conclude that increased institutional investor participation means investors are bullish Ether’s future value.
+There’s an overall slight short term bullish sentiment confirmed in every Ether derivatives market. Furthermore, Deribit’s growing open interest might bring additional volatility for maturities with relevant open interest.
+The June 26 contract, expiring in less than twelve days will be a good indicator, as there’s a relevant open interest pending for the $240 strike. There’s a hefty prize for call option contract buyers to prop up the price.
+Deribit expiry happens at 8:00 UTC and all options listed are European cash-settled, meaning buyers can’t exercise ahead of expiry.
+The Deribit ETH index is equally-weighted and composed by up to eight exchanges, excluding the highest and the lowest values. This dramatically diminishes incentives for price manipulation, although it does not entirely extinguish it.
+The views and opinions expressed here are solely those of the author and do not necessarily reflect the views of Cointelegraph. Every investment and trading move involves risk. You should conduct your own research when making a decision.

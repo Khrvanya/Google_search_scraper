@@ -1,0 +1,15 @@
+Ethereum Significantly Less Private Than Bitcoin, New Research Shows
+Ethereum transactions are even easier to de-anonymize than Bitcoin due to its specifics, but a lot of it comes down to careful usage of mixing tools.
+A paper published on May 29 by Ferenc Béres and a team of primarily Hungary-based researchers analyzed the Ethereum blockchain to find out how easily its transactions can be de-anonymized.
+The research , which has not yet been subjected to peer review, focused on several Ethereum-specific features that overall make the network easier to track than competitors like Bitcoin ( BTC ).
+The researchers noted that Ethereum’s account model, contrasted with Bitcoin’s Unspent Transaction Output (UTXO) model, already makes it less private due to the practice of wallet reuse:
+“The account-based model reinforces address-reuse on the protocol level. This behavior practically makes the account-based cryptocurrencies inferior to UTXO-based currencies from a privacy point of view.”
+A unique feature of Ethereum is its name service, which ties addresses to human-readable “.eth” domains. The researchers were able to scrape 890 domains located on public Twitter profiles.
+This was already enough to discover potentially compromising activity, as about 10% of those wallets interacted with gambling platforms, while 5% used adult services.
+The researchers then used the ENS addresses as starting points to discover if they could tie other addresses to the person’s public identifier.
+They proposed several methods to identify specific account owners across multiple addresses, which include time zone signatures, gas prices and shared activity among multiple addresses.
+The methods were applied to a well-known trustless mixer, Tornado Cash, which lets users “clean” their funds by sending them to a fresh address.
+However, researchers found out that 7.5% of them withdrew their money to the exact same account that made the deposit, which rendered their mixing efforts completely futile.
+Using custom gas values across multiple transactions and making direct transfers between the deposit and withdrawal wallets also makes identification easy. Overall, up to 17% of transactions can be de-anonymized through these simple techniques.
+Furthermore, the majority of these linked users do not hold their funds in the contract for more than a few days, which can be used to reduce the overall anonymity set . Many will also use the same wallets to receive multiple 0.1 ETH withdrawals, which makes it easy to compare them with incoming wallet transactions.
+While the researchers focused on Ethereum’s weaknesses, they cautioned that the same techniques could also be used on UTXO-based currencies — just not as easily. They concluded:

@@ -1,0 +1,12 @@
+The World Economic Forum has said Colombia will trial an Ethereum blockchain anti-corruption project.
+Colombia is focusing on a school meals benefits program—which has previously been targeted by thieves—to make government procurement more transparent.
+Other Latin American countries also are looking to blockchain tech to combat corruption.
+The World Economic Forum (WEF) is trialling a blockchain transparency project with the Colombian government in order to fight corruption in the South American country.
+A report published today says that along with the Inter-American Development Bank (IDB) and the Office of the Inspector General of Colombia, the WEF will use the Ethereum public blockchain to create a proof-of-concept—a trial to test the design idea—to combat corruption.
+The idea is that by using the Ethereum blockchain, the Colombian government will be able to make “corruption-prone government processes” more transparent. They will start by focusing on the Programa de Alimentación Escolar (PAE), a public-school meal program.
+Corruption has long plagued Colombia. The country’s government has itself estimated that  corruption costs Colombia a staggering $18 billion a year.
+The school meal program has likely been chosen by the WEF as such benefits have previously been stolen in the country. In 2016, a food company was accused of embezzling funds for school meals in one of Colombia’s poorest provinces.
+The project aims to increase transparency in public procurement in Colombia in the trial. The WEF can then reproduce the methods elsewhere to tackle corruption.
+Colombia isn’t the only South American country looking to the blockchain to help fight government corruption—last year Peru announced that it had partnered with a blockchain startup to build a fully transparent, contract-procurement system.
+The Colombian government’s demand for the Ethereum blockchain comes at a time when there is strong interest in the technology in South America. In May, the Ethereum Foundation announced it would hold its annual event, Devcon, next year in Bogotá.
+Get the best of Decrypt where you want it most.

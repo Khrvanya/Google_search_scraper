@@ -1,0 +1,20 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin Still Undervalued After Q2 Rally, Price Metric Shows
+Bitcoin Still Undervalued After Q2 Rally, Price Metric Shows
+Bitcoin remains a bargain despite having carved out solid gains in the second quarter, according to one price metric.
+At press time, the cryptocurrency is trading near $9,450 – up nearly 47% so far this quarter and has gained 145% from the low of $3,867 observed on March 13, according to CoinDesk’s Bitcoin Price .
+Despite the recent rise, bitcoin’s Mayer multiple – the ratio of the cryptocurrency’s price to its 200-day moving average – currently stands at 1.15, according to MayerMultiple.info .
+A below-2.4 ratio indicates the cryptocurrency is undervalued. Once the ratio rises above that level, it indicates that bitcoin may be overbought and a speculative bull frenzy has set in. That often leads to a price bubble and a subsequent crash.
+For instance, the ratio rose above 2.4 on Dec. 1, 2017, following which bitcoin doubled in value to $20,000 in just two weeks only to fall back to $12,000 on Dec. 22. Similarly, an above-2.4 ratio marked market tops in April 2013 and December 2013.
+So, with the ratio currently down more than 50% from the key 2.4 level, the path of least resistance for bitcoin appears to be on the higher side – more so, as bitcoin’s Mayer multiple is still below its lifetime average of 1.44.
+The ratio has been higher than the current level of 1.15 nearly 52% of the time, as noted by Mayer Multiple’s twitter handle. “This is a good time to stack sats,” tweeted Ecoinometrics , a bitcoin analysis company, referring to satoshis, small divisions of a bitcoin.
+Simulations performed by Mayer Multiple’s founder Trace Mayer show that in the past an investor would have achieved better results by accumulating bitcoin when the ratio was below 2.4.
+That said, the Mayer multiple is a technical analysis tool and its accuracy in predicting undervalued/overvalued conditions is not guaranteed.
+See also: First Mover: As US Stocks Defy Economic Gravity, Bitcoiners Shudder at March Memory
+And expecting past performance to hold consistent for future performance is risky as market conditions change. For instance, bitcoin’s correlation with the equity markets has strengthened this year and the cryptocurrency may suffer sharp losses if stocks crash on renewed coronavirus fears.
+However, on-chain activity is supportive of the bullish picture painted by the Mayer multiple. The number of bitcoin whales or entities holding more than 1,000 coins recently rose to 1,844, the highest level since November 2017, as noted on Wednesday .
+Retail interest, too, is at record highs, as tweeted by Ciara Sun , head of global business and markets and vice president at cryptocurrency exchange Huobi.
+The continued accumulation of bitcoin by both retail and large investors indicates confidence in the long-term bullish narrative surrounding bitcoin. Whether that confidence is justified, only time will tell.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

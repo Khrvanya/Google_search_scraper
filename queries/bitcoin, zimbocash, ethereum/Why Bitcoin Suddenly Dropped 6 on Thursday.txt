@@ -1,0 +1,25 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The week-long calm in the bitcoin market ended with a sudden $800 price drop on Thursday.
+The over-6% drop saw the top cryptocurrency by market value register its biggest single-day decline in two weeks, according to CoinDesk’s Bitcoin Price Index . Prices briefly hit lows near $9,100, a level last seen on May 27.
+There’s three likely factors as to why this happened:
+Global equities cratered and traditional safe havens like U.S. government bonds and the Japanese yen gained value as comments by the U.S. Federal Reserve that the economy may take years to recover gave a reality check to investors hoping for a V-shaped recovery.
+Bitcoin initially showed resilience by holding above $9,700 during the Asian and European trading hours. However, the sell-off in U.S. equities was too big to ignore for the crypto market traders – some of whom likely offered bitcoin on the fear that financial markets could be about to witness another round of panic like that seen in March.
+The Dow Jones Industrial Average (DJIA) fell by 1,800 points on Thursday, reviving memories of multiple 1000 point drops seen during the first half of March.
+A few observers had warned of an impending price drop in conversation with CoinDesk during Thursday’s European trading hours. At that time, bitcoin was trading near $9,800.
+“A switch to ‘risk-off’ in global markets could lead to further downside pressure for major cryptocurrencies,” Matthew Dibb, co-founder of Stack, a provider of cryptocurrency trackers and index funds, told CoinDesk.
+Big on-chain transactions, especially ones related to controversial wallets and addresses, can create panic in the cryptocurrency markets. That’s because, in the past, malicious entities have liquidated stolen coins in the market, causing sudden price declines.
+On Thursday, hackers moved over 400 BTC (or $4.1 million worth of cryptocurrency) stolen from the cryptocurrency exchange Bitfinex to unknown wallets, according to twitter bot Whale Alert.
+These transfers happened in 20 transactions during the Asian hours and were noted by the crypto market community. A few investors then began speculating about a price dump. At that time, bitcoin was hovering around $9,900.
+Another big transaction worth $1.3 billion executed by an unknown wallet also elicited a similar response from the investor community.
+Fears that so-called “whales” are preparing to dump large numbers of coins may have caused some bulls to exit the market. Further, savvy traders may have taken short positions in anticipation of the big dump, likely accentuating bearish pressures.
+Technical traders had a strong reason to sell bitcoins, as the charts were reporting uptrend exhaustion.
+The cryptocurrency has failed multiple times to establish a lasting foothold above $10,000 since the May 11 mining reward halving. Markets often test dip demand following multiple rejections at key resistance.
+A bearish divergence of a key three-day chart indicator was also suggesting scope for a price pullback.
+Thursday’s price decline has only strengthened the case for a deeper pullback. The slide to $9,100 marked a downside break of the eight-day restricted trading range of $9,350–$10,000.
+Additionally, the daily chart’s relative strength index has dropped into the bearish territory below 50. Analysts see strong support around $9,100, which, if breached, would invite stronger selling pressure.
+Read more: First Mover: Bitcoin Recouples With Wall Street as Stocks Tumble, Fear Trade Returns
+First support comes from the weekly downtrend resistance line which bitcoin broke and has been “sitting above the last few weeks,” said Chris Thomas, head of digital assets at Swissquote Bank. “This week the level is around $9,000-$9,100, hence [we’re] likely to see good buying here, then $8,700 & $8,200, otherwise, the next downside zone is $6,500-$7,000.”
+At press time, bitcoin is changing hands near $9,440. The price bounce from Thursday’s low may be associated with the 1% gain in the S&P 500 futures.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

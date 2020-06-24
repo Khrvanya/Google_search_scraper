@@ -1,0 +1,23 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin took a hit Monday, only to recover as many market participants see price weakness ahead.
+Bitcoin (BTC) was trading around $9,426 as of 20:00 UTC (4 p.m. ET), gaining less than a percent over the previous 24 hours.
+At 00:00 UTC on Monday (8:00 p.m. Sunday EDT), bitcoin was changing hands around $9,327 on spot exchanges such as Coinbase. It then dipped 5% to as low as $8,895 before picking back up to over $9,300. The price is now above its 10-day and 50-day moving averages, a bullish technical indicator.
+“Bitcoin is trading off with other asset classes, having suffered a loss of short-term momentum,” said Katie Stockton, lead analyst for Fairlead Strategies. “There is room to short-term oversold territory, but no support has been broken. The neutral consolidation phase is intact, in my work, as long as bitcoin is above the 200-day moving average, about $8,340, and below resistance near $10,055.”
+Read More: Bitcoin Price Drop May Be a Bear Trap, Options Market Suggests
+Traders say traditional markets seem to be taking the lead these days. “Our actual concern at the moment is the correlation between equities and gold,” Singapore-based quantitative trading firm QCP Capital wrote in an investor note Monday. “If both start trading lower in tandem, which happened prior to Black Thursday in March and also before the Thursday sell-off last week, it could be a strong signal for BTC to trade a leg lower as well.”
+Indeed, both bitcoin and the S&P 500 saw similar movements on June 10’s drop across most markets. Gold has held its own throughout the year, with the exception of March’s decline.
+That bitcoin’s performance is matching stocks of late concerns George Clayton of Cryptanalysis Capital. “The correlation with stocks is continuing,” he told CoinDesk. “That’s negative for crypto right now.”
+The market may seem weak right now but it could be worse, said Chris Thomas, head of digital assets at Swissquote Bank. “An interesting point is that miners do not appear to be selling. Otherwise, we would have seen the market significantly lower.”
+A look at the market for options with June expiration shows where some traders see the price heading. According to data collected from aggregator Skew, bitcoin has a 90% probability of being over $7,500, yet only a 13% chance of hitting $10,500 for the month of June.
+Thomas said the sweet spot for bitcoin is around the $8,000 range going forward. “I think we may drift a bit over the next few days and week, perhaps make a new leg lower into the $8,000 territory,” he said. “There are a lot of buyers and sellers sitting on the sidelines waiting.”
+Digital assets on CoinDesk’s big board are mostly in the red Monday. Ether (ETH), the second-largest cryptocurrency by market capitalization, is trading around $232 and slipping 1% in 24 hours as of 20:00 UTC (4:00 p.m. ET).
+Read More: Cardano’s No Ethereum Killer Yet, but It’s Winning in Crypto Markets
+The number of unique addresses active in the Ethereum network either as a sender or receiver has been trending up. Activity spiked during March’s coronavirus-induced crash, at 389,114 active addresses. On June 2, the number hit 387,293, closing in on that March 21 high for the year so far.
+The biggest cryptocurrency losers on the day include decred (DCR) in the red 4.4%, qtum (QTUM) dipping 3.4% and bitcoin SV (BSV) down 3.2%. The lone winner was zcash (ZEC) in the green 2.8%. All price changes were as of 20:00 UTC (4:00 p.m. ET).
+In commodities, oil gained 1.5%, with a barrel of crude priced at $37 at press time.
+Gold is trading flat, with the yellow metal slipping by less than a percent, trading at around $1,726 for the day.
+In Asia, the Nikkei 225 index of publicly traded companies in Japan closed in the red 3.4% on fears of the coronavirus pandemic making a comeback .I n Europe, the FTSE 100 index ended trading flat, down less than a percent as amid concerns about COVID-19 making a resurgence .
+The U.S. S&P 500 index gained less than a percent. Since the start of 2020 the tech stock Amazon.com, which is in the top five of the S&P 500, has actually outgained bitcoin, up 39% versus the world’s oldest currency’s 31% appreciation.
+U.S. Treasury bonds were mixed on the day. Yields, which move in the opposite direction as price, were down most on the t-year, in the red 5%.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

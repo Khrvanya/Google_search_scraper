@@ -1,0 +1,12 @@
+If you omit Bitcoin out of the greater digital asset landscape, the next closest competition for the rest of the industry is Ethereum.
+In terms of market capitalization, Ethereum continues to attain distance from the other projects, but from the development end, certain blockchain endeavors are slowly bridging the gap. Cardano is one of the top examples in the present.
+From the 10th ranked crypto asset, 2020 has been somewhat of a revelation, as the project has been rapidly launching various updates, and recently their Shelley testnet was opened to all staking pool operators in the industry.
+Speaking on the topic, Cardano co-founder Charles Hoskinson recently opined that the development gap between Ethereum and themselves isn’t as big as popularised.
+In a recent interview with Messari’s Ryan Selkis, Hoskinson stated that Ethereum achieving complete ‘network effect’ is the ‘greatest like of our space’ and believed that Ethereum was dominant in a ‘little pond, that was right next to the ocean’. He said,
+“For every dApp created, there are thousand cell phone applications. No one has achieved a complete network effect. Hyperledger has 250 businesses that are a part of it and there are hundreds of fabric deployments for every one Ethereum dApp.”
+Hoskinson said there are 25 presentations that can be presented by Cardano that will prove Plutus smart contracts higher credibility than Ethereum . The EVM model is trying to build programming language theories in a very rudimentary and complex procedure, whereas with Haskell, Cardano was writing a lot less code, which in some cases was 5 to 10 times less than C++ and Javascript.
+Selkis believed that Ethereum dominating the space is technically true, to which Hoskinson indicated that they were ahead in a race where the development roadmap is still miles ahead in terms of reaching the end goal.
+In fairness, Ethereum’s EWASM update, one of the parts of Ethereum 2.0 can be speculated to be the break away from the complexity of EVM, but Hoskinson made a fair argument. He suggested that Ethereum’s major issue is that its development process is in form of an experimentation process, where it was all about token price appreciation, to cultivate more demand, and then eventually make the system scalable, if possible.
+Additionally, Hoskinson noted that their Shelley main net launch could take place somewhere between 30th June and 7th July, based on a test run that will be conducted next week.
+Did you like this article?
+Your feedback is important to us!

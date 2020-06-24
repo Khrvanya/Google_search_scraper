@@ -1,0 +1,42 @@
+Persistent drought conditions have parched the soil over most of Colorado, stressing even irrigated lawns and larger landscape trees. All of central and southern Colorado is currently experiencing some form of drought, in many places severe and extreme, according to the latest data from the National Drought Mitigation Center.
+Continued dry and warm conditions in the Intermountain West during May have caused a rapid melt of snowpack and a reduction in streamflow forecasts. Routt County’s summer officially started last weekend, and it has already been very hot and windy. Wind becomes an added stressor to the hot summer temperatures, increasing desiccation of exposed vegetation, from grasses to large trees.
+During these periods of drought, homeowners should consider supplemental watering to keep their trees healthy.
+“Adequately watering your trees is the best way to ensure optimum growth and vigor during the summer months,” said Donna Davis, urban and community forestry specialist for the Colorado State Forest Service. “Dry trees become susceptible to root and branch die-back and subsequent insect and disease problems.”
+The CSFS offers the following tips to help keep trees healthy during summer drought:
+Mulch: Mulch is an inexpensive solution to retain soil moisture, save water and outcompete undesired vegetation growing around your trees. Apply 4 inches of organic mulch onto bare soil within 2 to 3 feet from the base of the trunk (removing any grass or other vegetation first, if necessary). Do not allow the mulch to directly contact the trunk since it might become a vector of rot.
+Water a wide area: Tree root systems may spread much wider than the height of the tree, with most absorbing roots in the top foot of soil. Apply water to soak the entire area underneath the full span of a tree’s branches. The area to apply the water is within the dripline, the outermost circumference of the canopy.
+Water slowly: To ensure soil penetration, use a deep root fork (inserted 8 inches or less), soaker hose on low setting or soft spray wand to apply water gradually.
+Keep the yard green: Trees located in irrigated lawns generally do not require additional water, as long as the area surrounding the tree receives adequate moisture. Conversely, a dry, yellowish yard means the roots of any trees present are also dry.
+Provide enough water: For trees 1 to 3 inches in diameter, apply 10 gallons of water for each inch of tree trunk diameter once a week. For medium-sized trees, those 4 to 9 inches in diameter, apply 10 gallons of water for each inch of trunk diameter three times a month. For larger trees over 10 inches in diameter, apply 15 gallons of water for each inch of trunk diameter twice a month.
+Focus on smaller and non-irrigated trees: Trees that do not receive water from sprinkler systems or irrigation require additional water. Water small and newly planted trees even more frequently, as they have less-extensive root systems.
+Visit csfs.colostate.edu for more tips on tree watering, planting and general care.
+Teddy Parker-Renga is the Colorado State Forest Service associate director of communications and communities.
+Readers around Steamboat and Routt County make the Steamboat Pilot & Today’s work possible. Your financial contribution supports our efforts to deliver quality, locally relevant journalism.
+Now more than ever, your support is critical to help us keep our community informed about the evolving coronavirus pandemic and the impact it is having locally. Every contribution, however large or small, will make a difference.
+Each donation will be used exclusively for the development and creation of increased news coverage.
+Start a dialogue, stay on topic and be civil.
+If you don't follow the rules , your comment may be deleted.
+						var vf_adctr = 0;
+								if (++vf_adctr > 10) { return; }
+								var vf_slot_div_id = "ad-comment-" + vf_adctr;
+						var form = this;
+						// after 1/2 second, submit the form
+					return ( currentSubscriptions || [] ).filter( elem => elem.topic_id === node.dataset.topic ).length > 0;
+					topic.classList.toggle( 'vf-follow-toggle-on', getTopicSubscriptionStatus( topic, currentSubscriptions ) );
+						var node = evt.target;
+								console.log( 'failure to unsubscribe: ' + err );
+							var promise = window.viafoura.topics.subscribe( node.dataset.topic, node.dataset.topicname, node.dataset.topictype || 'topic' );
+								console.log( 'failure to subscribe: ' + err );
+					const vfUUID = document.querySelector('meta[name="vf:uuid"]').content,
+					      if (response.status !== 200) return;
+          // Set language var based off cookie.
+          var swiftLanguageLoaded = false;
+          // If the library has been loaded already.
+          // If the spanish link is clicked.
+          // Load the translate script unless it has already been loaded.
+/* <![CDATA[ */ var pollsL10n = {"ajax_url":"https:\/\/www.steamboatpilot.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"}; /* ]]> */
+      var emailRegex = /([a-zA-Z0-9_\.-]+)@([\da-zA-Z\.-]+)\.([a-zA-Z\.]{2,6})/i;
+      var cleanPageLocation = currLocation.replace(emailRegex, "");
+	        _sf_async_config.uid = 57640; _sf_async_config.domain = 'swiftcom.com'; _sf_async_config.useCanonical = true; _sf_async_config.useCanonicalDomain = true;
+	        _sf_async_config.title = 'Community Agriculture Alliance: Tree watering during drought conditions | SteamboatToday.com';
+	          var oldonload = window.onload;

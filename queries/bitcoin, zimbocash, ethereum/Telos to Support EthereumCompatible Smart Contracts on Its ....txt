@@ -1,0 +1,12 @@
+With the launch of an Ethereum Virtual Machine, Telos is set to enable developers to create and run Ethereum-Compatible smart contracts.
+Telos, currently ranked the second-most active blockchain worldwide, is set to enable developers to create and run Ethereum-compatible smart contracts without transaction fees.
+Telos is a smart contract platform that supports the creation of decentralized applications and decentralized autonomous organizations running on EOSIO, the software underlying the EOS blockchain.
+As of June 18, the network has launched an Ethereum Virtual Machine (EVM) on its testnet, in what is apparently the first implementation of EVM on an EOSIO blockchain.
+Developers are being invited to use Solidity — the primary programming language for Ethereum — to run smart contracts on the testnet ahead of a target launch of the Telos EVM on the mainnet in July.
+Telos claims to support 10,000 transactions per second (TPS), without charging transaction fees — something it presents as a competitive alternative to Ethereum’s 14 TPS with fees.
+Accenting Telos as a challenger to Ethereum, Suvi Rinkinen — CEO of the Telos Foundation — said:
+“With Telos EVM, people can finally build and deploy decentralized applications the way they were meant to be, with high speeds, no middlemen, and no limit on users. Importantly, developers don’t have to use a new codebase to take advantage of Telos EVM. They can use Solidity to easily deploy Telos EVM smart contracts.”
+Syed Jafri, who won the EOISO smart contracts challenge to build eosio.evm — claimed that with the EVM, developers can run their “Solidity code 100 times faster with no modifications required."
+Telos, unlike many of its predecessors, did not launch an initial coin offering and uses a consensus mechanism called Delegated Proof-of-Stake , which Telos chief architect Douglas Horn has argued is a more “ecologically defensible” and energy-efficient way to power blockchain networks.
+This May, Transledger revealed it would be using Telos’ blockchain technology to power its interoperability platform, which is designed to enable inter-blockchain communication and cross-chain transactions.
+Earlier this year, the Telos Foundation was prompted to take action against two of its board members following a network security controversy.

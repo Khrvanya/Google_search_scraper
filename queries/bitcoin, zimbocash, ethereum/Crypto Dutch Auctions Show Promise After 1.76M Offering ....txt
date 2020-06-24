@@ -1,0 +1,12 @@
+Blockchain firm Solana has sold out of the tokens that it issued via a Dutch auction on CoinList’s platform.
+On March 24, United States-based blockchain company Solana successfully sold all of its tokens via a “Launch Auction” hosted by crypto fundraising firm CoinList.
+Solana raised $1.76 million from 445 bids placed from 91 different companies. 8 million SOL tokens were distributed at $0.22 each. 1,416 prospective investors had registered to participate.
+CoinList’s Launch Auction token issuance model comprises a “Dutch auction” — where the bidding for a token begins at an initial price ceiling which is dropped by a fixed amount periodically.
+Investors bid for the number of tokens that they wish to purchase at a given price until either all tokens are sold or the price drops down to a reserve price set by the issuer. Solana had set its price floor at $0.04 per token.
+In total, Solana has raised $25.6 million through issuing 186 million tokens or 37.2% of its total supply across four fundraising rounds.
+In its seed round the firm raised $3.2 million from 79.4 million tokens at $0.04 per token, before issuing 63.2 million tokens at $0.20 each to raise $12.6 million, followed by its validator round which raised $5.7 million through issuing 25.3 million tokens at $0.225 per token. Solana will also issue a further 10 million tokens through its forthcoming strategic round.
+Given the volatility across all markets and the uncertainty caused by COVID-19, we find these figures especially impressive,” said CoinList.
+Solana claims to offer greater scaling efficiency owing to its “ Proof-of-History ” protocol.
+Though not as widely known as initial coin offerings (ICOs) or initial exchange offerings (IEOs), the cryptocurrency industry is no stranger to Dutch auctions.
+In June 2019, the Algorand Foundation raised $60 million in a Dutch auction that issued 25 million ALGO tokens. The offering began at $10 per token, with the price being driven down to $2.40 over the course of 4,000 rounds of bidding.
+In 2017, crypto firm Gnosis introduced plans to launch a decentralized exchange for ERC-20 token issuances modeled on Dutch auctions. While Gnosis has since stepped away from dxDAO, the platform exchange is still operating today.

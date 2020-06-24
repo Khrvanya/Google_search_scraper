@@ -1,0 +1,13 @@
+The popular FTX Derivatives exchange made popular by traders, quants, and whales, has set its sights on Africa by opening an FTX Africa exchange group on Telegram as a first step.
+Derivatives are gaining traction amongst crypto traders because it allows one to manage their risk, trade at a lower cost and with less capital, and easily sell short.
+Derivatives are financial instruments (contracts) whose values are derived from an underlying asset. When someone trades derivatives, they are buying/selling contracts that represent the actual assets. They are used primarily for hedging purposes, specifically when traders want to protect themselves from price fluctuations.
+FTX is a cryptocurrency derivatives exchange built by traders, for traders. It strives to build a platform powerful enough for professional trading firms and intuitive enough for first-time users.
+FTX Token (FTT) is the backbone of the FTX ecosystem. It has been carefully designed with incentive schemes to increase network effects and demand for FTT, and to decrease its circulating supply.
+FTX Exchange is also quite well known for its detailed and transparent tutorials and explanations for trading.
+FTX is a crypto derivatives exchange that offers Futures, Leveraged Tokens and OTC.
+Developed by Alameda Research (one of the largest crypto market makers and liquidity providers in the space), FTX is an exchange built BY traders, FOR traders.
+The exchange claims to have built the best derivatives exchange by:
+Addressing the largest pain points of top futures exchanges (system overloads, clawbacks, lack of liquidity and poorly designed products)
+Some of the key features of the exchange include:
+– Leveraged ERC20 tokens that allow traders gain leveraged exposure on spot exchanges. These tokens simplify taking on leveraged positions by eliminating the risk of liquidations and the need to manage margin
+– Currently, the exchange offers: 3x LONG, 1x SHORT, 3x SHORT leveraged tokens for BNB, USDT, BTC, ETH, EOS, XRP, TRX

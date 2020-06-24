@@ -1,0 +1,10 @@
+Ethereum Classic miners can now opt to also mine Zilliqa.
+ETC miners in the Ethermine mining pool can update their mining code to support Zilliqa mining via Ezil.me.
+The merged mining operates by automatically switching between mining ZIL and ETC.
+Ethereum Classic (ETC) miners now have the option of configuring their rigs to also mine Zilliqa (ZIL). The new feature was launched yesterday, June 17th, after a period of Beta testing where miners gave their feedback and improvement proposals to the team at Ezil.me.
+The team at Ezil.me has requested anyone interested in the dual mining, to visit their mining instructions page for information on how to set up their ETC rigs to connect to their mining pool.
+Once you connect to our pool we will redirect you to the one of the biggest an allegedly most profitable pools, https://etc.ethermine.org/, prior to the start of ZIL round (every  1,5 hours) will automatically switch your rig to ZIL mining, and once ZIL round is over you will be seamlessly switched back to mining ETC
+. No action required from you, the process runs just like your regular ETC mining.
+In terms of expected returns, the following income prediction module is also provided by the team at Ezil.me.
+Earlier in the week, the team at Ethereum Classic highlighted the possibility of miner migration from Ethereum to ETC once Proof-of-Stake is activated with ETH2.0. The predicted shift will be due to miners’ equipment becoming unusable in the mining of the old Proof-of-Work algorithm of Ethereum. The ETC blockchain is very much similar to the Ethereum blockchain and miners will not have a difficult time switching to Ethereum Classic. Now they have the additionally incentive to do so via the ability to dual mine ETC and Zilliqa (ZIL) .
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

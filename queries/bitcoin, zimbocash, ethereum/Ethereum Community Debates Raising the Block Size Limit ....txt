@@ -1,0 +1,21 @@
+Ethereum Community Debates Raising the Block Size Limit, Once Again
+The Ethereum network has become highly congested since the end of April, leading some to entertain a gas limit or block size increase.
+Continuing congestion on the Ethereum ( ETH ) network has led some developers and community members to call for increasing the gas limit, which defines its transaction throughput.
+Data from Etherscan shows that the average gas price rose more than three-fold since early May, with an average of about 30 Gwei in the last few days.
+According to EthGasStation , this results in an average of a $0.16 fee to send a simple ETH transaction, which uses the least gas possible. ERC-20 token transfers and smart contract calls can cost many times as much.
+The fee increase is already having a significant impact on on-chain activity for gaming DApps. DappRadar statistics show that Ethereum gaming activity plummeted in May, while other chains made slight gains.
+Fees have increased primarily due to higher on-chain activity — especially due to Tether’s ongoing transition to the ERC-20 network. While the stablecoin provider is acting to fix the situation through sidechains, it may take some time for layer two solutions to establish themselves.
+In the meantime, some Ethereum builders, like 1inch exchange, began calling for the gas limit to be raised by a factor of at least 2.5, up from the current 10 million gas ceiling. That would, in theory, increase the capacity of the network and reduce fees.
+The gas limit in Ethereum defines the maximum number of calculations that can be inserted into a block, and is very similar to the block size concept in Bitcoin ( BTC ).
+Gas is an abstract representation of the computing resources expended by each operation. Each calculation’s gas cost is manually set by Ethereum developers — though they are generally close to the true computing cost.
+Anton Bukov, the CTO of 1inch, explained to Cointelegraph that the concerns stem from a possible overload of the nodes running the network:
+“Operations that cost little gas but require a lot of resources may be used to attack nodes. [...] If transaction processing starts taking 10-15 seconds, nodes will completely stagnate”
+Thus, increases in gas limit carry the risk of weaker nodes being thrown off the network as they cannot process transactions anymore. “That’s why the limit is raised so conservatively, and even then, usually usually it’s done after achieving some optimization results in client implementations,” he added.
+The last gas limit increase occurred in September 2019 , pushing it from 8 to 10 million.
+Buterin proposed to change gas prices on some calculation types, like base transaction cost and storage operations, to effectively increase capacity by about 20%. However, that would require a network hard fork, which he acknowledged is more complex than miners agreeing on a new limit.
+Others proposed to wait for more definitive solutions, like Ethereum 1.x or even Ethereum 2.0, which focuses on improving scalability. Both are still in heavy development , and the network may lose ground if it waits for them.
+Research published by Buterin in 2018 asserts that Ethereum has a fairly high demand elasticity, showing that in high-congestion situations, the usage of the network decreased.
+Should the limit be increased?
+Bukov’s belief is that the time has come for another increase:
+“I think in 8 months there has been a sufficient number of client releases with the necessary optimizations, and a 12 million [gas limit] network is certainly ready, and it would be great to test the full 15 million”
+Nevertheless, the decision will need to be agreed on by the wider Ethereum community of client developers, miners, and DApp builders.

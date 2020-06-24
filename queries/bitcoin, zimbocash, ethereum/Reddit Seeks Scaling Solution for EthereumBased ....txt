@@ -1,0 +1,15 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Reddit is anticipating big demand for its Ethereum-based “Community Points” system only one month after rolling out the product.
+Now the social media site is looking for a scaling solution.
+Posted in the r/Ethereum subreddit Thursday, Reddit announced a partnership with the Ethereum Foundation to find a Layer 2 (L2) scaling technique for the site’s 430 million users. Community Points are earned by garnering “upvotes” on posts and can be used to purchase specialized GIFs or emojis.
+Following CoinDesk’s request for comment, Ethereum Foundation Executive Director Ayako Miyaguchi tweeted:
+A blockchain for decentralized applications, Ethereum has been eyeing various scaling techniques since its mainnet launch in 2015.
+The scaling debate has been siloed into two parts: Current work on Ethereum’s Proof-of-Work (PoW) blockchain called Eth 1.x and the future Eth 2.0 update, which promises “unbounded” scaling via two technologies called Proof-of-Stake (PoS) and sharding. Eth 2.0, sometimes referred to as Serenity, remains a highly technical project with no firm timeline, though an initial phase is tentatively slated for later this year .
+Conversely, Ethereum’s Devcon 5 in Osaka, Japan, in October 2019, exhibited product-ready L2 options such as ZK-Rollups and Optimistic Rollups from the Plasma coding group, now operating under the name Optimism . For example, decentralized exchange IDEX currently trades on its own variant of the product.
+However, Reddit is looking for a product that is focused on social media. As the post notes, most L2 solutions have focused on exchanges, which require fast transaction times that most blockchains cannot handle.
+“Many of these designs don’t take into consideration the costs of obtaining tokens or entering the scaling system, which can be significant,” the post states. “Community Points distributions have cost an order of magnitude more gas than all other operations combined, primarily due to on-chain storage costs associated with onboarding new users.”
+Applicants are asked to submit proofs-of-concept by July 31 with reviews concluded by September. Unfortunately for these Reddit developers, the only reward is notoriety.
+“This is your chance to earn some fame but, to be clear, there is no prize if your solution is chosen or modified to meet Reddit’s needs. Our lawyer made us write this,” the post states.
+Update (June 18, 21:15 UTC): Updated with comment from Ethereum Foundation Executive Director Ayako Miyaguchi.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

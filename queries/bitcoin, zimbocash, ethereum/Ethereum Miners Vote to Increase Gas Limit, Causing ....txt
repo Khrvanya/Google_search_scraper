@@ -1,0 +1,17 @@
+Ethereum Miners Vote to Increase Gas Limit, Causing Community Debate
+Ethereum miners consider increasing the block gas limit, which has both advantages and drawbacks for the network.
+Ethereum ( ETH ) miners are currently voting to expand the block gas limit from 10,000,000 to 12,500,000 gas, according to a recent tweet from Bitfly, the parent company of Ethermine pool.
+What is gas and the gas limit?
+Gas is a unit that measures the amount of computational effort required to send a transaction or perform other actions on the Ethereum blockchain. It is denominated in Gwei, or extremely small fractions of ETH.
+Block gas limit, in turn, is the threshold of gas that can be spent on the transactions featured within one block.
+How could this vote affect the network?
+If the vote comes through, it would theoretically increase the network’s overall capacity and reduce fees. Specifically, as per Bitfly’s calculations, Ethereum blockchain would start processing around 44 transactions per second, while currently it handles 35 transactions per second on average. The firm referred to this speed bump as a “huge milestone for the community.”
+However, the increased gas limit has some potential drawbacks, too. As the threshold becomes larger, it takes more time for miners to process each block, resulting in the so-called “uncle blocks” issue. It occurs when two different miners generate a block at the same time, and only one of these blocks joins the blockchain, essentially resulting in extra work for miners.
+As Anton Bukov, CTO of 1inch, previously explained to Cointelegraph , there is also a possibility of overloading of the nodes running the network:
+“Operations that cost little gas but require a lot of resources may be used to attack nodes. [...] If transaction processing starts taking 10-15 seconds, nodes will completely stagnate.”
+Increases in gas limit might also prompt weaker nodes to leave the network, potentially making it less decentralized. “That’s why the limit is raised so conservatively, and even then, usually it’s done after achieving some optimization results in client implementations,” Bukov said at the time.
+The recent initiative has been met with strong opposition from some community members. Core Ethereum developer Péter Szilágyi summarized Bitfly’s tweet in the following way:
+Ethereum co-founder Vitalik Buterin has also joined the discussion. According to him, about six weeks ago a Sparkpool ETH mining pool representative asked him if he supported the gas limit increase. He said that he didn’t, citing Szilágyi’s views on the matter. Buterin’s position has seemingly shifted since, as he wrote :
+Independent blockchain scalability researcher, Georgios Konstantopoulos, wrote that he’s against further block size increases and “you should be too”, adding:
+Bukov of 1inch, on the other hand, appears to favor the miners’ initiative. He told Cointelegraph:
+“You have to worry about the network’s convenience for the community instead of longer-term state growth acceleration. Otherwise, Ethereum’s competitiveness gets affected, and more projects start considering migration to forked chains or other networks.”

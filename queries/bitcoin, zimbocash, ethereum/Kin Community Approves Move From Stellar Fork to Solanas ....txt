@@ -1,0 +1,14 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+The Kin cryptocurrrency was launched by the social media app Kik back in 2017. (Sharaf Maksumov / Shutterstock)
+Almost a month after announcing its proposal to migrate to the Solana Blockchain, the Kin cryptocurrency project announced Friday the move had been approved by its board and community, and a transition plan would be released in the coming weeks.
+The Kin Foundation said in a press release the move to Solana’s blockchain was in response to a growing user base, which was hitting limitations on the Stellar blockchain fork the cryptocurrency is currently built on. According to the firm, the cryptocurrency currently has over 3 million active monthly spenders and has been integrated into 57 different, mostly mobile, applications.
+App developers, node operators and the Kin Foundation’s board members (Ted Livingston, who founded the Kik messaging app and is the face of Kin, and William Mougayar, an author who hosts the annual Token Summit conference) voted on the proposal, which was released on Github last month.
+He said a rise in users meant that the Kin cryptocurrency needs to be able to process more than 100 transactions per second, which is the upper limit on the Stellar fork.
+According to Anatoly Yakovenko, Solana’s co-founder, the blockchain can handle up to 60,000 transactions per second on its current mainnet.
+“In addition to speed, Solana’s natural ability to scale turned out to be a major determining factor in their (Kin’s) decision,” Yakovento told CoinDesk.
+This is also not the first time the cryptocurrency has changed blockchains. Launched by Kik in 2017, Kin was originally built on the Ethereum blockchain, but a few months later it announced that it would use Ethereum for security and the Stellar blockchain for transactions. Then in May 2018, Kin announced that it would fork Stellar’s blockchain to create its own.
+According to the firm’s emailed statement, as part of the crypto’s transition to Solana, the blockchain firm has also promised to give 1% of all of Solana’s token supply (amounting to $3.5 million) as grants to the Kin Foundation.
+Even as Kin continues to expand its user-base, the regulatory troubles it faced in the past have continued to persist .
+“Kin is not getting much recognition in the marketplace, unfortunately because of the SEC [U.S. Securities and Exchange Commission] darkcloud,” Mougayar said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

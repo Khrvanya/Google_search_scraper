@@ -1,0 +1,28 @@
+Is Blockstream’s Liquid Network an Attempt to Compete for Tokens with Ethereum?
+Blockstream seems to be taking a page out of Ethereum’s book as it sponsored a game that uses Liquid to issue non-fungible tokens, despite earlier criticism of the platform.
+At Consensus Distributed on May 12, Blockstream presented Lightnite, a Fortnite-like game that uses the Liquid Network for storing non-fungible tokens (NFT) representing game items.
+While the game is developed by independent company Satoshi’s Games, Blockstream has sponsored the game by running a token giveaway .
+The announcement has garnered a considerable amount of criticism from Ethereum ( ETH ) fans, given the longstanding rivalry with the Bitcoin ( BTC ) “maximalists.” Non-fungible tokens are traditionally associated with Ethereum and other smart contract blockchains, and received constant criticism from Bitcoin community members as part of that association.
+Benjamin DiFrancesco, an Ethereum contributor and founder of Scopelift, tweeted that this is part of a narrative shift:
+Not all Bitcoin community members welcomed the Liquid NFTs, with notable Ethereum critic Udi Wertheimer commenting that “nobody wants NFTs.”
+Lightnite’s sales pitch mentions gamers earning Bitcoin while playing the game, while Marty Bent, host of Bitcoin podcast “Tales from the Crypt,” praised the NFT initiative in a newsletter post, saying:
+But Liquid is not Bitcoin. It is a sidechain that uses BTC through a trustful bridge maintained by the Liquid federation, which mostly includes exchanges. While it is based on the Bitcoin codebase, it goes beyond it at the same time, adding faster finality, tokenized assets and confidential transactions on-chain.
+That comes at the price of decentralization. The blockchain is entirely validated by the federation, which itself decides who can become part of it. It holds custody of the BTC used for the Liquid bridge, and Blockstream maintains multisig recovery keys for emergency situations.
+This is in contrast with some other sidechain implementations like RSK . Despite having a similar federated bridge, it still piggybacks from Bitcoin’s decentralized security model.
+Neil Woodfine, Blockstream’s director of marketing, told Cointelegraph that Liquid attempts to be an improvement over the status quo. The industry of Bitcoin exchanges is “extremely centralized at the moment,” he said, and trusting a federation of them instead of any single exchange is preferred. He added:
+“[Regarding] the question of whether it's as decentralized as Bitcoin — it isn't, for sure. But does it need to be for this particular application? Is it already improving on the old system? I think it is in that regard.”
+Liquid is designed to remove the burden of inter-exchange transactions from the Bitcoin network, which are “perhaps even the majority” of its activity, Woodfine said, adding that a dynamic federation is also planned soon.
+He played down the level of centralization of the chain, noting that anyone can easily launch observing nodes. “If the federation ever decided to misbehave, they [users] would be able to restart their own federation using their existing balances,” Woodfine said.
+At the same time, NFTs generally have little to do with trading on centralized exchanges.
+Woodfine emphasized that Blockstream is not actively pushing for them:
+“We don't have any plans as a company right now to pursue any Liquid-related platforms of people issuing NFTs. Although if anybody is interested in building such a thing, we would definitely be willing to offer some support.”
+He revealed that Satoshi’s Games received technical help from Blockstream, but no financial support.
+When asked why the tokens could not be issued on Bitcoin, he replied that existing protocols are too poorly maintained and difficult to use, in addition to the mainnet’s congestion issues .
+Furthermore, he revealed that Blockstream is working on a platform specifically built for security tokens.
+This suggests that the company does indeed see tokens as an important part of its business, though not necessarily NFTs.
+Can Liquid be a good platform for NFTs?
+While he concedes that gaming may not need high security guarantees, “it is only a marginal improvement over a centralized platform run by a gaming publisher,” he said. Warwick added that Ethereum causes “developers [to] inherit all of the infrastructure, like mobile wallets.”
+Sébastien Borget, the president of the Blockchain Game Alliance, has a more conciliatory position:
+“I think that what matters at the end of the day, from a player’s perspective, is not the technology or blockchain that is used by us (developers), but how fun this game is.”
+He maintains a platform-agnostic and inclusive attitude, and sees Liquid’s entry into this field as “a consistent proof that there is a shift in mentalities towards gaming.” But he also noted that it may become difficult for developers to switch to a new platform once they have obtained expertise in one of them.
+From that point of view, Ethereum has a strong lead as it “has been historically (and probably remains) the network with the largest number of developers as of today,” Borget concluded.

@@ -1,0 +1,16 @@
+Offline staking of QTUM will be available on the testnet by June 29th.
+If successful, it will be the first case of offline staking on a major blockchain.
+Qtum community members and holders requested offline staking.
+The development team at Qtum is preparing to support offline staking on the QTUM blockchain by first double-checking the feature for issues through a testnet version. Staking will first be supported on the testnet of Qtum Core 0.19.1.
+The team notified the Qtum community of the progress via a Medium announcement this week and further explained that Offline staking on the testnet will be available after a hardfork at block 625,000. The hardfork of the testnet is predicted to occur on or around June 29th, 2020.
+Why Offline Staking on QTUM?
+The feature of offline staking on Qtum was as a result of community members and QTUM holders requesting a way to stake without being online and without running a full node. Below is a brief explanation of the request for offline staking.
+One of the most popular Qtum community requests has been for offline staking.
+From launch, Qtum Mainnet required online staking using a Qtum Core wallet full node. These staking wallets sync the entire Qtum blockchain and must run online 24/7 to operate and secure the network and qualify to be block publishers.
+QTUM holders that did not want to run a full node, or had security concerns, could not participate in staking.
+A secondary concern for community members was the resources and power to run a full  node for staking. Best security practice is to stake from a dedicated machine that is not used for email and surfing the web, because of malware risk. This was a resource issue, especially for smaller holders who were considering the power cost for running a computer 24/7.
+The changes to bring offline staking on Qtum were suggested via QIP – 25 (Qtum Improvement Proposal – 25). The QIP suggests how offline addresses can securely delegate their UTXOs (Unspent Transaction Outputs) to online nodes. The online nodes will run the Proof-of-Stake consensus for the UTXOs of the offline address via a smart contract. The QIP further explains that the delegation will be non-custodial.
+New blockchain header and transaction protocols will provide a way to validate the delegation and support a real-time fee payment to the online node.
+The Qtum Core node and light clients will provide an easy way to assign and unassign the delegation through a smart contract call. The delegation will be non-custodial (the offline address owner will retain control of private keys) and the delegated UTXOs will not be locked in any way.
+If offline staking on the testnet is successful, an implementation on the QTUM mainnet would translate to the blockchain being the first in the crypto-verse to offer offline staking of its cryptocurrency . As a result, the feature might incentivize investors to stake QTUM offline further creating demand for the asset.
+Disclaimer: This article is not meant to give financial advice. Any additional opinion herein is purely the author’s and does not represent the opinion of EWN or any of its other writers. Please carry out your own research before investing in any of the numerous cryptocurrencies available. Thank you.

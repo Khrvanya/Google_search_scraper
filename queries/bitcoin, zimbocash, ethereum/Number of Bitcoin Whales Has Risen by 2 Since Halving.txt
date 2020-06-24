@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin’s price rally has stalled since the cryptocurrency underwent its third halving on May 11, but investor confidence in the cryptocurrency’s long-term prospects remains strong, data shows.
+The halving event on May 11 saw the mining reward per block on bitcoin’s blockchain cut from 12.5 BTC to 6.25. The event was expected by many to accelerate the price uptrend from the low of $3,867 seen in March.
+So far, though, the leading cryptocurrency by market value has failed to pick up a strong bid and continues to trade below $10,000 – a level seen two days ahead of the halving. Even so, larger investors, often called whales, continue to accumulate coins, as seen below.
+As of Tuesday, the number of bitcoin whales, as represented by the tally of unique entities holding at least 1,000 coins, was 1,840. That’s up nearly 2% from the level of 1,811 observed on May 1, according to data from blockchain analytics firm Glassnode . The metric clocked a recent high of 1,844 on Monday, a level last seen in November 2017.
+The steady accumulation since the halving suggests investor confidence in the long-term bullish narrative surrounding bitcoin.
+Most analysts expect the cryptocurrency to rise sharply over the next 12 months on the back of the unprecedented fiscal and monetary stimulus delivered by authorities across the globe in the past three months. Bloomberg analysts said they expect bitcoin to challenge the record high of $20,000 by the end of 2020 on increased institutional participation.
+For the whale metric, an entity refers to a cluster of addresses that are controlled by the same network entity and are estimated through Glassnode’s proprietary clustering algorithms.
+Glassnode considers it a more reliable indicator of investor participation – the number of individuals or businesses using the network – compared to the traditional approach, which considers the number of addresses on the network as a proxy to the number of users/holders.
+The latter method is weak because a single user can hold coins in multiple addresses, the firm says. The same is true for exchange addresses, which hold coins belonging to more than one individual.
+Bitcoin’s current period in the doldrums could end with a bullish breakout above $10,000, given the steady accumulation by investors and other factors.
+“We are bullish in the medium term with a target of $12,000, said Matthew Dibb, co-founder of Stack, a provider of cryptocurrency trackers and index funds. Dibb, however, believes the move to $12,000 would be preceded by a few weeks of erratic trading.
+That possibility shouldn’t be ruled out, as bitcoin’s correlation with the equity markets has strengthened over the past week. The cryptocurrency fell sharply twice in the last week as stocks slipped over renewed coronavirus concerns.
+“Bitcoin is currently trading as a ‘risk asset’ and will likely be subject to continued volatility as further US economic data is released in the coming days,” said Dibb.
+While the immediate bull target is the psychological level of $10,000, support is seen at $8,900 (Monday’s low). A violation there would expose the next support lined up at $8,000.
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

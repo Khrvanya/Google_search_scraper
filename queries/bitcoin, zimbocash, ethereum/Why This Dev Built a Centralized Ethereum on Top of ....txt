@@ -1,0 +1,32 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Ethereum was created to carry out complex applications Bitcoin supposedly couldn’t handle. A new app brings the idea full circle.
+Pseudonymous developer Fiatjaf has created Etleneum , which he describes as a “centralized” version of Ethereum that runs on payments from Bitcoin’s Lightning Network. Hence the name, a portmanteau of “Ethereum” and “Lightning.” (If that’s too subtle, the Etleneum logo is a diamond shape like Ethereum’s with a lightning bolt running through it.)
+Like Ethereum, Etleneum has “ contracts ,” automated agreements over what rules need to be met before money can be dispensed. The contracts are public like Ethereum’s, and like the world’s second-largest blockchain by market capitalization, Fiatjaf’s platform is open to anyone to use.
+But it is not decentralized. Fiatjaf controls it all – as he is quick to note.
+“Lots of people think I invented some kind of decentralized trustless smart contract platform on Lightning, which would be amazing and probably impossible, but then they’re frustrated when I deny it,” he said.
+It sounds odd, since the whole point of Bitcoin and Ethereum is decentralization – wrestling control from one ruler or entity.
+But Fiatjaf argues there are limits to what can be totally decentralized, and that this particular mixed set-up might prove to be more useful.
+Etleneum went live in October. The app has garnered 200 registered users and 1,200 total calls to use the system, for either making or participating in the contracts. That’s a blip compared to Ethereum, which boasts give or take 1,000 transactions a day and just crossed 100 million accounts .
+Fiatjaf’s platform allows “two or more mutually distrusting parties … to run some arbitrary code that will determine what happens with some quantity of money, all guaranteed by a third party trusted by all involved,” he said.
+“If that was possible with a normal fiat bank, it would be pretty interesting already,” he said. “Today we have some apps doing basically that” [accepting money deposits and executing code that determines where that money will go].
+He gave the example of Google AdSense, which allows users to get paid for posting advertisements on their websites based on how many clicks the ads get.
+“But it’s always a fixed, predefined ‘contract’, never an open platform for anyone to publish any kind of useless or stupid or small or big or useful contract,” Fiatjaf said.
+The limitations of traditional payment systems make the type of open payments Fiatjaf envisions impractical. Fees charged by card-issuing banks or PayPal aren’t negligible, discouraging smaller payouts. Not to mention, these apps almost always require identification.
+“In the fiat world that’s very hard to do, even when you can accept payments with credit cards you can’t send money to a random visitor,” Fiatjaf said. “There are very few examples of services out there that pay people, and normally the payee must go through some verification process, link their bank account, it’s restricted to some countries and jurisdictions.”
+The Lightning Network allows Etleneum to get around these limitations. As in Bitcoin proper (and Ethereum, for that matter), there’s no requirement to tie an identity to an account or payment. And since payments are sent back and forth between parties off the Bitcoin blockchain until final settlement, it’s speedier, cheaper, and more scalable.
+The basic example of a use case that Etleneum gives is of a wealthy person putting free money into a contract. Then, poorer users can simply take the money if they call the contract.
+A common use case for Ethereum is oracles, where two parties, for example, make a bet based on some future data point, such as how much a stock will be worth on a certain date.
+A trusted source (the “oracle”) submits the data and the money will be dispersed to whoever won the bet.
+Etleneum supports this use case, too. Coded agreements can be uploaded to the website for a fee. Then, anyone in the world can utilize them by calling the contract and paying a fee.
+When asked about the legal risk of running a centralized platform without identifying users, Fiatjaf sounded unconcerned.
+Noting that other custodial lightning apps don’t require know-your-customer (KYC) checks and even one of the largest exchanges does not run through KYC for small deposits and withdrawals of bitcoin, he said, “I think I’m fine – hoping that the KYC structure will have fallen to the ground before I get to any meaningful size.”
+If so much of the app is inspired by Ethereum, why not just use Ethereum?
+Fiatjaf said he decided to make a centralized version because in his view (shared by many Bitcoiners) Ethereum unintentionally leans towards centralization of power anyway. Etleneum cuts to the chase, cleaving out the parts of Ethereum that try to decentralize power, but don’t get the job done.
+“I think [Ethereum] was a cool experiment for a while,” Fiatjaf said, but over time severe problems became apparent. For one, calling the technology so that it can be used by more than just a few people at once has been a tall order. Most famously, CryptoKitties, a popular app for trading funny-looking virtual cats, managed to single-handedly clog the network, making all apps running on Ethereum slow down as a result.
+While Ethereum developers are looking over potential solutions to this scaling issue (some of which are similar to Bitcoin’s Lightning), this problem has yet to be solved.
+Then there are oracles. In the end, Fiatjaf argued, smart contracts trust third parties to provide correct data.
+“it’s not possible to code any useful smart contract there at all due to being impossible to access the external world without trust,” he said.
+Finally, contrary to Ethereum’s tenet of decentralization, many of its apps have back doors that can be used to switch them off in case of a critical bug. Similarly, with one ruler, Etleneum allows that party to just shut down a contract if it isn’t working properly.
+“Code complexity, bugs, and always-necessary contract upgrades will always demand some form of centralization,” Fiatjaf said.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

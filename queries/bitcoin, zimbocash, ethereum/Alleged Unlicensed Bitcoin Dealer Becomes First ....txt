@@ -1,0 +1,8 @@
+A 23-year old Singaporean accused of unlicensed Bitcoin dealing is set to become the first person to be charged under the city-state’s Payment Services Act.
+A 23-year old Singaporean accused of unlicensed Bitcoin ( BTC ) dealing is set to become the first person to be charged under the city-state’s Payment Services Act.
+The Singapore Police Force said on June 23 that the woman — whose identity has not been disclosed — had provided a digital payments token service without a license. She is alleged to have received at least 13 fraudulent fund transfers, worth a total of 3,350 Singapore dollars (~$2,400), which she then used to purchase Bitcoin.
+The money is thought to be proceeds obtained from victims of online scams. Police claim that the fraudulent transactions were made “on the instruction of an unknown person,” in return for a commission.
+As reported, Singapore’s Payment Services Act came into effect on Jan. 28, 2020 and regulates cryptocurrency payments and trading enterprises under some aspects of the state’s regulatory regime for traditional payment services.
+It introduced multiple registration and licensing requirements for industry firms and dealers, among other measures.
+Unlike the United States, the Monetary Authority of Singapore does not draw a distinction between various types of “payment,” “utility” and “security” tokens, placing them all within a broader category of digital payments tokens. This, some have argued , makes certain regulatory requirements more difficult to evade.
+Alongside online scams, Singapore is also reported to have seen a significant increase in the prevalence of attempted cryptojacking attacks during the first quarter of this year.

@@ -1,0 +1,25 @@
+JOHANNESBURG – Blockchain technology is the future, more than US $2-billion was invested in blockchain solutions in 2018.
+According to WinterGreen Research, Blockchain is predicted to exceed US $60-billion worldwide by 2024 as it creates new digital economic infrastructure.
+The report states that the blockchain market is moving into rapid growth mode as the digital economy takes hold. Blockchain is a core enabling technology that will help banks and other financial services organisations move into the modern age of real-time transaction processing.
+The banking sector was previously held back by the outdated mainframe computing technologies that managed data in batches.
+Today, digital data is managed in real time over the Internet and blockchain is spurred by more modern ways to manage global transactions across national borders.
+In short, blockchain is a distributed ledger system that provides enhanced security to the real-time digital economic process. Blockchain comprises blocks of digitally recorded data and the demand for this technology is growing everywhere. More than 60 IBM cloud data centres see blockchain as the top application driving growth.
+Business leaders are struggling to predict the future of blockchain technology and they are most likely underestimating its potential. If they are not fully embracing it right now, they will definitely be missing the many opportunities it has to offer.
+According to Juniper Research, blockchain technology is being considered by more than half of big corporations. It found that 57 percent of large corporations with more than 20 000 employees, were either actively considering or in the process of deploying blockchain.
+This technology has the ability to change all aspects of the digital economy. This includes shopping, conducting business, delivering healthcare, entertainment and staying connected with a social world.
+Online payments have gained huge traction and card-based payments have increased drastically. Blockchain technology creates increased speed of transaction processing and greater efficiency in real-time processing.
+Furthermore, cryptocurrency is becoming increasingly popular. Distributed ledgers support the payment system for digital currency to operate in decentralised mode, by eliminating the need of intermediaries to centralise processing. Distributed ledger technology also enables tracking of financial transactions.
+It virtualises tracking and trading anything of value via creating digital money. Blockchain provides a robust environment for secure data sharing in real-time.
+Blockchain comprises blocks of digitally recorded data that create a distributed ledger. There are many different types of distributed ledger systems, each obeying their own security and privacy levels.
+According to the report, use case analysis indicates blockchain can drive better visibility in transactions and supply chains.
+It can also drive more efficient and compliant asset management. There is no centralised “point of failure”, the computing power necessary to hack a blockchain is nearly impossible to achieve.
+Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, tracking digital use and payments to content creators such as musicians.
+This technology is important because it brings trust to peer to peer networks. The purpose of any bank is to act as a trusted third party to transactions. The answer is blockchain technology, by using this technology we now have an objective, trusted third party to facilitate our transactions.
+Blockchain applications offer essential functions such as payment, escrow, and they can also reduce fraud, increase financial privacy, speed up transactions and internationalise markets.
+The most common use for blockchain is to expedite the transfer of digital funds from one person to another or one company to another.
+With banks removed from the equation, it is now possible to validate transactions 24/7. Blockchain transactions can be processed and settled within a matter of seconds.
+More importantly, blockchain is very useful when it comes to monitoring supply chains. By removing paper-based trails, businesses can identify inefficiencies within their supply chains immediately, as well as locate items in real time.
+It also enables businesses to view how products performed from a quality-control perspective as they move from the warehouse to the retailer.
+In today's Internet driven world, copyright and ownership laws on music and other content has become vague. Blockchain will help considerably for digital content downloads, ensuring the artist or creator of the content gets paid fairly. It could also provide real-time and transparent royalty distribution data to musicians and content creators.
+As blockchain technology matures, we can already see the real value emerge, one that supports not only cryptocurrency but many other business applications.
+The impact is far greater than anyone realises, it has the potential to change industries, economies, businesses and society as a whole. We have merely scratched the surface of its potential.

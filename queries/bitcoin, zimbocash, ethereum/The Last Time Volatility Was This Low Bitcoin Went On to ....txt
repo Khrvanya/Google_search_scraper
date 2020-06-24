@@ -1,0 +1,18 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+For the fifth straight week, bitcoin is locked in a low-volatility squeeze similar to one seen ahead of a sudden $2,350 rally in October 2019.
+While the cryptocurrency has leapt over 4% in the past 24 hours, prices still remain trapped between $9,000 and $10,000. In fact, the top cryptocurrency by market value has spent the better part of the last two months trading in that narrow range, according to CoinDesk’s Bitcoin Price Index .
+Due to the persistent lack of clear directional bias, the Bollinger bandwidth, a price volatility gauge, has declined to 0.08, the lowest level since mid-October 2019.
+Bollinger bands are placed two standard deviations above and below the 20-day moving average (MA) of price. Meanwhile, the Bollinger band width is calculated by dividing the spread between the volatility bands by the 20-day MA.
+Bitcoin witnessed a bull-bear tug of war in the range of $7,700–$8,600 for over three weeks, starting from Sept. 26, 2019 (above right). As volatility fell, the Bollinger bandwidth declined to 0.08 on Oct. 17.
+A prolonged period of low-volatility consolidation often paves the way for a big move in either direction, according to technical analysis theory. That’s what happened in four days after Oct. 17. The cryptocurrency suffered a minor drop from $8,000 to $7,300 on Oct 22-23 only to rise sharply to $10,350 by Oct. 26. Essentially, prices rallied by $2,350 in the nine days following the volatility gauge’s drop to 0.08.
+Over the past two years, there have been a number of instances where a below-0.10 reading on the bandwidth indicator marked a sudden explosion in volatility.
+The sudden upswings in prices seen in early January 2020 and April 2019 were both preceded by a drop in bandwidth to below 0.10.
+It’s important to note, of course, that prolonged consolidation only promises big moves, and does imply anything about the ultimate direction of prices. In the past, bouts of low-volatility trading have ended with big price slides, too.
+So, if history is a guide bitcoin may well break out of its restricted trading range over the next few days.
+In traditional markets, options traders often take “ straddles ” in a bid to profit from an impending strong directional move following a dull trading environment. The non-directional strategy comprises buying both calls (bullish bets) and puts (bearish bets). Goldman Sachs, for example, likes straddling when stock volatility is low.
+While the future direction of prices is uncertain, with central banks taking unprecedented steps to counter the coronavirus-induced recession with massive stimulus packages, the fundamentals may be aligned in favor of a big bullish move.
+Further, investors look to be adding bets to position for a rally in the cryptocurrency, according to options market data.
+“The Chicago Mercantile Exchange appears to be stepping up its options presence as we’re seeing some larger orders come into the market with mainly call buying from 11k-13k one to three months forward,” said Chris Thomas, head of digital assets at Swissquote Bank.
+Disclosure: The author holds no cryptocurrency assets at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

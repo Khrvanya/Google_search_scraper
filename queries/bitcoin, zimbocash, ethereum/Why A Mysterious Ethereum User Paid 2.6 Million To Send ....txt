@@ -1,0 +1,13 @@
+The latter is unlikely because the fees go to miners on the Ethereum network. Unless miners are working together with the sender, there is a higher probability that it was mistakenly sent.
+"It could of been a mistake, some form of money laundering or washing. It was mined by SparkPool so they could send that ETH back to the original owner if they wanted to.”
+He also explained that the wallet address that sent the transaction likely comes from a crypto exchange. If so, in theory, the exchange could communicate with the mining pool to try to recover the multi-million dollar fee.
+Public blockchain networks like Ethereum that are fully decentralized cannot revoke transactions or smart contracts.
+When a payment or data is sent my mistake, due to the decentralized nature of the network, there is no way to reverse it.
+Some consider it to be one of the downsides of decentralized crypto assets. They somewhat force users to be wholly responsible for the transactions since there is no third party or a central entity to intervene.
+But, an advantage of a public blockchain is that all the data on the network are fully transparent. That means, it is possible to determine which address sent and received the transaction.
+If the address is well-known, like an exchange or mining pool’s address, it is possible to try resolve it directly between the two parties.
+For now, if the $2.6 million fee was a mistake, the individual or entity that paid it will have to communicate with the miner or mining pool that mined the block containing the transaction.
+Given that crypto miners are rewarded the fees for using their computing power to mine blocks, miners can choose to cooperate with the sender.
+Similarly, the transparency of crypto assets and blockchain networks allow exchanges and analytics firms to follow and detect suspicious transactions, which can resolve situations involving mistakenly sent fees and the transfer of proceeds from hacking attacks.
+I'm a financial analyst and investor who has worked in the cryptocurrency and technology sector since 2013. I've worked with leading publications within the
+I'm a financial analyst and investor who has worked in the cryptocurrency and technology sector since 2013. I've worked with leading publications within the cryptocurrency space, providing unique insights, interviews, market analysis, and technology coverage. I've contributed to Cointelegraph, CryptoSlate, CCN, Hacked, Binary District, NewsBTC, CoinJournal and CryptoInsider.

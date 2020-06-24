@@ -1,0 +1,17 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Nearly three years in, Matic, an India-based scaling side chain, has finally launched its mainnet. (Credit: Matic)
+Matic, a sidechain scaling solution for Ethereum, began deploying its mainnet on Sunday.
+The India-based Matic Foundation announced via a blog post that it had brought 10 nodes online, the first volley of a network Matic hopes to grow tenfold. Project insiders told CoinDesk that the launch validates almost three years of forging ties in India’s developer scene, an effort they began long before the India Supreme Court effectively legalized cryptocurrencies earlier this year.
+With the rollout, Matic, which last year raised seed funding from Coinbase Ventures , can now run dapps and support asset transfers between its network and the ethereum mainchain, the blog post said. Coinbase did not respond to a request for comment.
+Future deployments will gradually move control of Matic over to the community.
+One of the many projects seeking to provide workarounds for ethereum’s scaling woes, Matic uses Plasma framework-based side chains and a proof-of-stake model to speed up dapp performance at “1/100th” of the ethereum gas cost, according to the announcement.
+Those Plasma roots come via CEO Jaynti Kanani, an erstwhile Plasma contributor who started Matic with Sandeep Nailwal and Anurag Arjun in October 2017.
+Matic has since grown to a team of 25 full-time contributors working out of Bangalore, the “Silicon Valley” of India.
+“What we are building actually provides a lot of firepower to ethereum,” said Chandresh Aharwar, operations chief.
+Ethereum is also trying to shore up its problems by deploying Eth 2.0. At last check, founder Vitalik Buterin said the long awaited and perennially delayed network upgrade is launching in Q3 2020.
+Aharwar is less optimistic. He told CoinDesk that Eth 2.0 project insiders “know” it’s not on schedule. “Eth 2.0 for applications is not going to be there for at least 1.5 or 2 years,” he said, calling that an “aggressive” timeline.
+In the meantime, Matic is trying to position its sidechain for dapps that might otherwise choose to base on EOS or TRON for performance gains. “Now they get that scame scalability on ethereum,” Aharwar said.
+The Matic team began building toward mainnet launch two and a half years ago. Based in Bangalore, India, it has close ties to the country’s developer community through hackathons, Aharwar said. At least 6 new core developers joined in the past few months.
+That acceleration comes as the wider Indian startup community faces a possibly catastrophic capital drought. TechCrunch reported that a mere 30% have enough cash to get through the next three months, and up to 40% were either pausing business or shuttering from COVID-19.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

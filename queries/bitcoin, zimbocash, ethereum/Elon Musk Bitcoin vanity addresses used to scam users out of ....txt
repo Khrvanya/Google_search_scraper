@@ -1,0 +1,32 @@
+While Bitcoin giveaway scams have been around for more than two years, new trick helps scammers net massive profits.
+Bitcoin giveaway scams have been around for more than two years, but a new twist in tactics has helped scammers make more than $2 million over the past two months from Elon Musk's name.
+The new trick involves the use of Bitcoin vanity addresses in order to give the scam more credibility in the eyes of a suspicious user.
+Over the past month, Justin Lister , CEO of cyber-security firm Adaptiv , has been tracking the use of Bitcoin vanity addresses abusing Elon Musk's name in giveaway scams.
+Lister has been collecting the addresses with the help of BitcoinAbuse, a website where users can report Bitcoin addresses abused in ransomware, extortions, cybercrime, and online scams.
+In a spreadsheet shared with ZDNet earlier this week, the Adaptiv CEO said he tracked down 66 addresses that have been reported by scammed users on BitcoinAbuse.
+Lister said the 66 addresses received more than 201 in Bitcoin since being created in late April 2020.
+Since receiving the spreadsheet from Lister earlier this week, a 67th Elon Musk vanity address was also submitted to the BitcoinAbuse website. This vanity address held an additional 13.9 Bitcoin, which brought the total to 214 Bitcoin, a sum that now stands over $2 million at today's exchange rate.
+The $2 million sum is enormous if we take into consideration the low effort required to run one of these scams.
+Because BitcoinAbuse also requires users to add a short description of where they encountered the Bitcoin address, this made investigating the source of some of these scams much easier.
+Based on ZDNet's review, most of the Bitcoin vanity URLs had been shared with the help of YouTube live streams.
+Hackers hijacked high follower-count YouTube accounts, changed the account name and its graphics to mimic the account of a celebrity or a trusted brand, and then launched a live stream to broadcast their scam.
+The scam relied on tricking users into sending Bitcoin to the scammers' address, on the promise of doubling their profits, part of the giveaway -- usually organized on the occasion of an important event in the celebrity/brand's history.
+In our investigation, we found that hackers had either renamed the channels to Elon Musk's name, the SpaceX brand, or news outlets such as Euronews, seeking credibility.
+The Bitcoin address was usually embedded either in the live stream itself, and users had to scan it with a QR code reader, or users were asked to visit a dedicated "giveaway" website.
+But we're not reporting on something new here, with multiple of these fake Elon Musk giveaway live streams making the news this month alone [ 1 , 2 ].
+Bitcoin giveaway scams abusing the Elon Musk and SpaceX names have been going on all month, ever since SpaceX and Musk made the news last month for the company's first successful rocket launch carrying a live NASA astronaut crew .
+Bitcoin and Ethereum giveaway scams have been around since at least February 2018, when the first such case was reported. Since then, the trick has gotten old and users have gotten better at spotting the scammers.
+The role of the Bitcoin vanity address was to give more credibility to the scam and make it look authentic, similar to how "verified profiles" give more authenticity to accounts on social media sites like Twitter, Facebook, and Instagram.
+The Bitcoin network doesn't have a way to "verify" addresses, so vanity addresses, which are hard to come by, are the closest thing to a "verified" Bitcoin address.
+The trick of using Elon Musk vanity addresses was, obviously, successful, helping crooks net more than $2 million, but it wasn't the only one.
+ZDNet also found other vanity addresses submitted to the BitcoinAbuse database and reported as being abused in similar YouTube-based giveaway scams.
+We similarly found vanity addresses for SpaceX and Bill Gates. Both have been used in similar YouTube-hosted giveaway scams, with the Gates-themed addresses holding more than $100,000 in stolen funds.
+In addition, we also found another Bitcoin vanity address that was not available on the BitcoinAbuse website. This one had been used for a giveaway scam that tried to take advantage of the recent launch of the Play Station 5 gaming console. Luckily, no user fell victim to such a scam.
+111K people are watching a fake @SONY @PlayStation 5 Livestream on @YouTube designed to steal people's Bitcoins by promising to double it. https://t.co/t906Orlruq
+Address shows no transactions so far. https://t.co/NmA9Co9EeU
+How the hell does this go "under" YouTube's radar? pic.twitter.com/YXrIrFWmFK
+— Oo Nwoye (@OoTheNigerian) June 12, 2020
+Similar scams abusing Linus Torvald and Mark Zuckerberg's names have also been reported, along with brands like Facebook, Twitter, and even the UN.
+As long as these scams have a giant return-on-investment and crooks make more than they spend setting up the scam, the "giveaway" scourge will continue to haunt cryptocurrency owners.
+Users should be wary as these scams aren't limited to YouTube live streams only, and have been also spotted on Twitter, Facebook, Instagram, and more recently on TikTok -- similarly by hacking into high-follower profiles and broadcasting the scam for a short period.
+In most cases, these scams are powered by hacked accounts sold on hacking forums for prices going from $5 to thousands, depending on the follower count. Taking into account that some scammers are making as much as $180,000 a day , the scams are most likely to go on for years, or until users stop falling for the scams.

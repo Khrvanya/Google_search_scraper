@@ -1,0 +1,10 @@
+Ethereum co-founder Vitalik Buterin said that the blockchain’s initial layer-two scaling deployment is nearly complete.
+Ethereum co-founder Vitalik Buterin said that the blockchain’s layer-two scaling initial deployment has “basically” succeeded.
+In a June 1 tweet , Buterin claimed that most of the initial work on Ethereum’s second-level scalability solutions is nearly complete.
+To back his claim, Buterin linked to a tweet by Ethereum researcher Philippe Castonguay who listed a number of relevant developments and second-layer Ethereum scalability solutions that have recently launched.
+Castonguay noted that blockchain development firm StarkWare launched its second-layer scalability solution, as did blockchain company LoopRing.
+According to StarkWare, their second-layer solution attempts to address both scalability and privacy limitations on the blockchains with which it is integrated. Furthermore — as Cointelegraph reported in late February — the company hopes that its technology can also address the vulnerability of centralized exchanges.
+The researcher also pointed out that Indian blockchain firm Matic just launched its Ethereum scalability second-layer.
+Buterin said that Ethereum second-layer scalability solutions are near-ready and their use is mostly limited to payments and decentralized exchanges. He suggested that second-layer scalability solutions should be used for token transfers and decentralized exchanges — as they make up a significant portion of transactions on the Ethereum network.
+Buterin also noted that blockchain firm Optimism launched a demo that supports the full potential of Ethereum smart contracts on its network.
+The Ethereum co-founder concluded that the current challenge is for users to successfully utilize wallets that support such scalability solutions, stating, “This is an adoption challenge, not a technical challenge.”

@@ -1,0 +1,24 @@
+Please consider using a different web browser for better experience.
+Please enable JavaScript in your browser for a better site experience.
+Bitcoin is reporting moderate gains on Monday as gold, a safe haven asset, rallies amid renewed coronavirus concerns.
+At press time, the cryptocurrency is priced around $9,430 – up 1.5% on the day – having put in lows near $9,260 during the Asian hours, according to CoinDesk’s Bitcoin Price Index .
+Gold, however, printed a one-month high of $1,759 per ounce early on Monday and was last seen trading near $1,750.
+The precious metal looks to be rising as the markets return their focus to the coronavirus pandemic, with the number of new cases rising at a faster pace in Germany, the U.S. and other parts of the world over the past few days. Investors seem worried the major economies may reimpose lockdowns to avoid a second wave of the outbreak, which could worsen an already deep economic crisis.
+Some companies like tech giant Apple have already announced temporary store closures in four U.S. states following a jump in COVID-19 cases last week.
+Authorities in Australia have extended a state of emergency for four more weeks to July 19. Meanwhile, the uptick in the German infection rate caused by an outbreak among abattoir employees has sparked debate about working conditions in its meat processing industry, as noted by popular macro analyst Holger Zschaepitz.
+Hence, it’s perhaps not surprising safe haven assets like gold are drawing bids. A recent study by blockchain analysis firm Chainalysis shows the majority of bitcoin is held by those who treat it as “digital gold,” or an asset to be held for the long term.
+Bitcoin’s uptick seen so far on Monday may bring cheer to those who believe in the safe haven narrative. However, a closer look at the markets suggests the cryptocurrency is tracking S&P 500 futures.
+U.S. stock futures, which were down by nearly 1% during the early Asian trading hours, are now reporting a 1% gain.
+Further, while gold has gained over 5% in the last two weeks, bitcoin has largely been restricted to a narrow range of $9,000 to $10,000 since the May 11 halving.
+As the top cryptocurrency’s rally from the March 13 low of $3,867 looks to have stalled near $10,000, institutional investors are showing temporary exhaustion, according to one analyst.
+“On the CME futures, we are seeing some signs that the bulls might be getting tired waiting for a breakout above $10,000. The average daily traded volume is trending down which is not surprising since it follows price volatility. But at the same time open interest is also trending down,” noted Ecoinometrics , a bitcoin analysis company.
+As of Friday, futures listed on the Chicago Mercantile Exchange (CME), which is widely considered to be synonymous with institutional activity, registered trading volume of $195 million, down nearly 80% from the high of $914 million observed on May 11, according to crypto derivatives research firm Skew.
+In addition, open interest – the number of contracts traded but not squared off by taking offsetting positions – was $394 million Friday, down 26% from the high of $532 million seen on May 19.
+While futures activity is slowing down, CME options are reporting record open interest.
+Option contracts worth $417 million were open on the CME on Friday, representing a staggering 3,000% rise from the tally of $13 million observed on May 1.
+As such, one may argue that institutional interest in bitcoin hasn’t died down but merely shifted instruments.
+It remains to be seen if the record open interest on options is rolled over to July expiry contracts following the expiry of June contracts this Friday.
+As of this writing, there are 114,000 contracts set for expiry on June 26, according to Skew. If that open interest is not rolled over to July/September, it would confirm what futures activity is suggesting.
+“The last two month-end/month-open (end of April/start of May and start of June) both saw large upside moves as stale positions were rolled off and new positions were put on,” Singapore-based QCP Capital noted on its Telegram channel. “We are questioning whether this can be 3 in a row after such a large open interest, comprising mostly upside calls rolls off, or has the short-term institutional bullishness mostly died down.”
+Disclosure: The author holds no cryptocurrency at the time of writing.
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

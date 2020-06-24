@@ -1,0 +1,18 @@
+Skale CTO: Ethereum’s Strength Is the Ecosystem, Not Its Roadmap
+The CTO of Skale believes that the ecosystem behind Ethereum is impossible to compete with, despite delays.
+In the second part of the interview with Skale Network CTO Konstantin Kladko, he explained why he believes that Ethereum ( ETH ) is more than just the Eth 2.0 roadmap, and what he believes to be the best use case for it.
+Kladko is quite vocal about the failures of other layer-two solutions, though Skale itself partially relies on Ethereum. As Kladko explained:
+“Our token lives [on Ethereum]. When you register nodes on Skale, you register [them] through ETH. We probably have the largest ever set of smart contracts on ETH mainnet.”
+Kladko recounted an episode in his life from the year 2000, when he was working at Stanford:
+“A friend of mine [...] got to my office and [...] he showed me Google. And the moment I saw this, the moment I just typed in the search query, I saw that this is going to be a hundred billion dollars company.”
+“Sometimes in life you get this feeling,” he added, mentioning Steve Jobs’ presentation of the iPhone in 2007 as another case of this.
+For Ethereum, the same happened at Devcon 3, a conference held in November 2017. “It was clear to us that even at that time, Ethereum had incredible momentum,” he said.
+For Kladko, the momentum and the community are the only things that matter for an ecosystem. “Technology can always be fixed,” he added.
+When asked about how Ethereum 2.0 and its delays tie into the “unstoppable bulldozer” theory, he compared it to some programming languages like Java, which despite regularly taking double the planned time between releases was able to assert itself on the market. Continuing the analogy, he said:
+“So I think that’s very much the same story with ETH. It doesn’t really matter. They’ll probably have delays because they’re all ‘mature and open-source’ guys, but in the meantime, startups like ours will help. You will be able to do lots of things on ETH 1.0 plus Skale.”
+Skale, as the name suggests, aims at scaling blockchain through a sharded architecture, which he believes can compete with more centralized cloud platforms like AWS.
+He recounted a science fiction novel that inspired him in this, Invincible by Stanislaw Lem. In the novel, a planet is engulfed in a war between two computer civilizations. One is made of large computers, and another is made of tiny swarms that can assemble into anything — the swarms eventually win due to their flexibility.
+As Kladko explained, Skale seeks to power the “next wave” of decentralized applications, which he says will replace Google, Facebook and other centralized data platforms.
+“People want to have the power, they want to control their data, and it's actually getting huge. And for this one, you actually need to use blockchain.”
+But Ethereum 2.0 , with its 64 shards and thousands of transactions per second, is still not enough to host a decentralized Google, explained Kladko.
+Skale’s vision in the next ten years is that Ethereum will provide a base security layer, “and the thousands of transactions will be used by other networks like ours as a foundation.”

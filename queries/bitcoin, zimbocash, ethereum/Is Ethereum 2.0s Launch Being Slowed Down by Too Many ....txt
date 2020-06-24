@@ -1,0 +1,19 @@
+Is Ethereum 2.0's Launch Being Slowed Down by Too Many Clients?
+Ethereum 2.0’s “many clients” approach is sometimes criticized for slowing down progress, but a Nimbus developer believes this will make the network more resilient.
+Progress on Ethereum 2.0 has picked up pace recently as the Schlesi multiclient testnet has revealed itself to be a more-or-less stable network. Cointelegraph spoke with Zahary Karadjov, the research and development lead for Nimbus, to learn more about the upcoming clients.
+The development of clients is key, as they define how a blockchain operates. For Ethereum 2.0, the project’s developers decided to let seven separate teams develop an equal number of implementations.
+One of these is Nimbus, a semi-independent branch of the Status ( SNT ) project. For Nimbus, the distinguishing factor is the team’s focus on making light clients that could run on all sorts of devices , including smartphones and Raspberry Pi.
+However, as Karadjov explained, the work is currently focused on simply creating a working network, while optimizations will come later:
+“Nimbus is not just a light client. That hasn’t been our goal. Actually, to be involved in Ethereum 2.0 development it’s too early to be just a light client only.”
+Nimbus thus follows all the existing specifications for Ethereum 2.0 and is “in that sense, not too different from all the other clients,” Karadjov added.
+The most noticeable difference between the clients is the choice of programming language. Nimbus is written in Nim, while Lighthouse, for example, is written in Rust. “So far, I don’t think there are two clients that are using the same language,” he noted.
+In Karadjov’s view, this prevents the issue of monoculture, which can prevent crippling bugs in one client to destroy the network:
+“For example, if some kind of vulnerability is discovered in one of the clients, you wouldn’t want that to shut down the entire network. When people have options to immediately switch to a different implementation, the network as a whole is more resilient.”
+When asked if so many implementations could actually multiply the number of possible bugs, Karadjov replied that this could be seen as an advantage, as it would force the specifications to be as generic and as functional as possible.
+Can one client hold back all the others?
+The Schlesi testnet launch highlighted that some client developers may be behind schedule, as not all of them succeeded in connecting.
+This has the potential of resulting in further delays if Ethereum developers were to wait for every single client to be ready. Karadjov said that this is unlikely to be the case:
+“The thinking so far is that when we have enough clients that cover adequate criterias for launching Ethereum 2.0, we don’t need to wait for all the clients to be ready.”
+However, he prefaced this answer by saying that it is “obviously speculation,” as it is hard to know when Ethereum 2.0 will be considered ready. Sharing his thoughts on the criteria, he added:
+“Perhaps the client should have external security audits done. And then, it should be able to cover some performance requirements, or it should have gone through some stress testing to verify that the implementation will be stable enough for real usage.”
+As always, however, there are no clear timelines for when clients may begin meeting these criteria. As Karadjov explained, the specifications are mostly finished, but the clients themselves need more work to be considered ready.

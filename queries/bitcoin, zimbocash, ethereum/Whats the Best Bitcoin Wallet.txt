@@ -1,0 +1,32 @@
+Home » Latest News » What's the Best Bitcoin Wallet?
+What’s the Best Bitcoin Wallet?
+When it comes to investing in cryptocurrency , choosing where to store it is nearly as important as buying it in the first place. So, what’s the best bitcoin wallet in 2020?
+Just as you likely maintain a savings account for long-term money storage and a checking account for day-to-day debit card purchases, the top cryptocurrency wallet solution may actually involve at least two wallets.
+The term “wallet” is a bit of a misnomer, as they don’t actually store funds. Instead, each wallet stores one or more private cryptographic keys, which are required to access cryptocurrency funds that live in many fragments on a decentralized online ledger known as the blockchain . It’s absolutely vital to keep your private keys safe.
+To keep it simple, choosing the best bitcoin wallet for you basically boils down to a continuum with security on one end and ease of use on the other.
+[Read: Bitcoin Halving 101: What Is It and Why Does It Matter? ]
+“One hundred percent security is not easy to use, and 100% easy-to-use is not necessarily secure,” says Caleb Chen, content marketing manager at Private Internet Access. “Depending on where you’re at, the solution might be multiple wallets.”
+At the most secure end is what’s called cold storage. Physical wallets that store keys offline on a physical medium like paper are called “cold storage” wallets because they’re not linked to the “hot” internet — like a hot wallet — where cyber-criminals prowl. Cold storage can also refer to keeping a wallet on a dedicated computer that is not linked to the web.
+However, these options aren’t the easiest to use if you need to access your cryptocurrency with relative haste. So if you’re considering multiple wallets, you’ll probably end up with a combination of a hardware wallet and a software wallet. Online wallets are also available, but they can come with a big caveat in terms of security.
+So, if you’re interested in crypto wallets, here’s a breakdown of your options (outside of cold storage):
+— Hardware wallets: Keys are stored in a small physical device that you connect to a computer or smartphone for transactions.
+— Software wallets: Apps that you download to your mobile device or desktop.
+— Online wallets: Browser-based wallets that allow you to interact with them like a website.
+For long-term storage, many people choose hardware wallets.
+According to Nick Percoco, chief security officer with Kraken Digital Asset Exchange, hardware wallets are “a good balance between security and utility.”
+Hardware wallets — of which Trezor and Ledger Nano S models are the most popular — are physical devices about the size of a keychain fob that store your private keys and can be kept separate from your desktop computer. Even when you do connect one to your computer to make a cryptocurrency transaction, any malware that might be on that desktop doesn’t have access to the wallet, Percoco says.
+[ Sign up for stock news with our Invested newsletter. ]
+Ledger and Trezor wallets have become popular because of the user experience they offer, which includes support for many different cryptocurrencies and a solid physical look and feel that inspires confidence, Percoco says.
+Eden Dhaliwal, global managing director at Conflux Network, likes the Bluetooth feature of the Ledger Nano X that lets you use it on desktop or mobile platforms without having to have it physically connected. “It’s the most simple to use for cross-chain support,” he says.
+Dhaliwal also points to a hardware wallet from Coinkite. “It has a real crypto security chip where your private key is stored in a dedicated security chip, not the main micro’s flash,” he says. “It also has a micro SD card slot for backup and data storage which allows for truly offline signing.”
+Here’s where security begins to give way to ease of use.
+For instance, a bitcoin wallet on a computer that you use to browse the web is less secure than a hardware wallet because it’s susceptible to getting infected with malware that specializes in looking for cryptocurrency wallets, Percoco says.
+Software wallets can be useful if you spend cryptocurrency often, he says. In that case, you may want to have a software wallet that you transfer cryptocurrency to once a month from a hardware wallet. That said, “your life savings shouldn’t be available on your computer,” he cautions.
+The Electrum desktop wallet is relatively easy to use. And, partly because it has been around since 2011, Electrum is one of the most well-respected desktop wallets out there.
+A downside to Electrum is that it can only be used for bitcoin transactions.
+For a multicurrency wallet, Chen points to an offering from Jaxx. As ease of use goes, he likes that it allows users to regenerate private keys from a phrase of “seed” words.
+Once you give up your private key, you lose your ability to control your cryptocurrency to another party. This is why Chen recommends staying away from web-based wallets that don’t allow users to store their own private keys.
+For a noncustodial wallet in which users control their own keys, Guarda offers a web-based multicurrency wallet.
+[ Artificial Intelligence Stocks: The 10 Best AI Companies. ]
+Dhaliwal says Guarda is very secure and praises its simple user interface.
+The wallet supports multiple popular coins and tokens. It also allows users to import and export private keys to and from other services, back up a wallet with a secure encryption algorithm and purchase cryptocurrencies with fiat currency .

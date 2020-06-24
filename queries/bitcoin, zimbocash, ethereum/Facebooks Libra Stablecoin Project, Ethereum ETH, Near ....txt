@@ -1,0 +1,12 @@
+The controversial Facebook-led Libra project is reportedly the most active project in terms of developer activity, according to CoinCodeCap data.
+There are 41 active developers working on Libra, meanwhile, Ethereum (ETH), the world’s largest smart contract platform, has 36 active developers, the data site reveals.
+Other active open-source protocols include Near (NEAR) , Bitcoin Cash (BCH), CELO, and IOTA – even though it recently experienced serious issues including a million dollar hack .
+Filecoin (FIL), a highly-anticipated blockchain project that has been aggressively rolling out updates , is the 7th most active project right now in terms of developer activity.
+Insolar (XNS) , a Swiss enterprise blockchain development firm that counts Microsoft, Oracle and AT Kearney amongst its business partners and clients, has also consistently been in the top 10 in terms of having the most active development.
+As confirmed in a separate report by Outlier Ventures, blockchain interoperability project Cosmos (ATOM) has seen many developers contribute to the ongoing development of its protocol.
+Development for stablecoin Dai, Decred (DCR), Stellar (XLM), Algorand (ALGO) , Waves, Lisk (LSK), and Cardano (ADA) has remained fairly steady despite the COVID-19 outbreak and resulting economic uncertainty.
+Despite being a fairly new player in the competitive DLT space, Libra has managed to attract 176 active authors in the past year – which is a lot more than any other project.
+This has all been going on while Facebook had to make significant changes to it development roadmap for Libra, after regulators heavily scrutinized the initiative – citing concerns about the social media giant’s issues related to privacy and many lawmakers being against Big Tech moving into finance.
+As reported , Facebook’s Libra may serve as signal that Fintech firms like Visa, Paypal, Booking.com have been eager to explore stablecoins, one of the fastest-growing sectors in decentralized finance (DeFi) and the blockchain space, in general.
+Lex Sokolin, the Global Fintech Co-Head and CMO at ConsenSys, a leading Ethereum (ETH) development studio based in New York, told CI in recent interview :
+“I think Libra will be very impactful, no matter what form it takes. If it just takes the form of a payment rail for CBDCs, that already is massively important. The existence of such a regulated blockchain rail, being private and closely regulated, will by definition take market share away from other types of permissionless open blockchain rails.”
