@@ -25,6 +25,10 @@ import stat  # some permission
 import os
 from sys import argv, getsizeof
 
+from contextlib import contextmanager
+import threading
+from _thread import interrupt_main
+
 SCRAPED_LANGUAGE = 'en'  # could be None == all
 MIN_SCRAPED_SIZE = .35  # Kb
 CURR_PATH = os.path.abspath(os.curdir)
@@ -211,6 +215,33 @@ def get_link_per_gpage(links_number: int) -> tuple:
     return 10, int(links_number / 10)
 
 
+def timeout(timeout_duration, default, func, *args, **kwargs):
+    """
+    This function will spwan a thread and run the given function using the args, kwargs and 
+    return the given default value if the timeout_duration is exceeded 
+    """
+    
+    import threading
+    class InterruptableThread(threading.Thread):
+        def __init__(self):
+            threading.Thread.__init__(self)
+            self.result = default
+        def run(self):
+            try:
+                self.result = func(*args, **kwargs)
+            except:
+                self.result = 'Error'
+                
+    it = InterruptableThread()
+    it.start()
+    it.join(timeout_duration)
+    if it.is_alive():
+        return default
+    
+    assert not it.result == 'Error', 'HPPT Error 403 or another block'
+    return it.result    
+
+
 def get_string_language(text: str, confidence=90):
     """
     Gets string and confidence: min per cent of major language
@@ -239,7 +270,7 @@ def get_string_size(text: str, encode='utf-8'):
     """
 
     if encode:
-        text = text.encode(encode, errors='replace')
+        text = text.encode(encode, errors='ignore')
 
     size = getsizeof(text) / 1024
 
@@ -275,7 +306,7 @@ class Link:
         Main function that scrapes google links  
         Scrapes self.url and returns the result to self.data
         """
-        print('\nstart scraping')
+#         print('\nstart scraping')
 
         if extract == 'ArticleSentencesExtractor':
             extractor = extractors.ArticleSentencesExtractor()
@@ -284,34 +315,45 @@ class Link:
         else:
             assert False, '!!!Extracter is False!!!'
 
-        print('\nextractor ready')
+#         print('\nextractor ready')
+
+        content = None
 
         try:
 
-            print('\nget url: ', self.url)
+#             print('\nget url: ', self.url)
 
-            content = extractor.get_content_from_url(self.url)
+            content = timeout(15, None, extractor.get_content_from_url, self.url)
         except:
 
-            print('\nusing driver')
+#             print('\nusing driver')
 
             try:
                 driver.get(self.url)
-                html = driver.execute_script("return document.documentElement.innerHTML")
+                html = timeout(15, None, driver.execute_script,
+                                           "return document.documentElement.innerHTML")
 
-                print('\nhtml: ', html)
+#                 print('\nhtml: ', html)
+                if html:
+                    content = timeout(15, None, extractor.get_content, html)
+            except Exception as error:
+                print(error)        # unknown errors (rare)
 
-                content = extractor.get_content(html)
-            except:
-                return None  # unknown errors (rare)
+        if not content:
+            return None
 
-        print('\ncontent extracted:', content)
+#         print('\ncontent extracted:', content.encode('utf-8', errors='ignore'))
 
         examine = get_string_size(content) > MIN_SCRAPED_SIZE
+        
+#         print('size examined')
+        
         if SCRAPED_LANGUAGE:
             examine &= (get_string_language(content) == SCRAPED_LANGUAGE)
 
-        print('\ncontent examined: ', examine)
+#         print('language examined')    
+
+#         print('\ncontent examined: ', examine)
 
         if examine:
             if process:
@@ -371,16 +413,16 @@ def solve_recaptcha(driver, timer=0):
     if timer >= 900:
         assert False, '!!!recaptcha failed many times!!!'
 
-    if driver.current_url == 'https://www.google.com/sorry/index':
-        assert False, '!!!you were caught by recaptcha infinitive circe, clean you ' \
-                      'cookies, wait some time or change your IP!!!'
-
     curr_soup = get_driver_url_soup(driver)
     if not check_soup_recaptcha(curr_soup):
         return curr_soup
 
     curr_timer = 0
     while curr_timer < 300:
+    
+        if driver.current_url == 'https://www.google.com/sorry/index':
+            assert False, '!!!you were caught by recaptcha infinitive loop, clean your ' \
+                      'cookies, wait some time or change your IP!!!'
 
         curr_timer += 30
         time.sleep(30)
@@ -433,7 +475,7 @@ def scrape_gsearch(obj, process=None, delete_previous=True):
     """
     Main function that scrapes Google search pages
     Gets Gsearch object, scrapes Gsearch.url into Gsearch.link_set
-    If you don't have anti-captcha key change 421 to driver=run_chromedriver() 
+    If you don't have anti-captcha key change 497 to driver=run_chromedriver() 
     """
 
     if process is None:
@@ -449,8 +491,8 @@ def scrape_gsearch(obj, process=None, delete_previous=True):
         '!!!length of queries and links numbers for them are not equal!!!')
     if len(obj.number) == 1:
         obj.number = obj.number * len(obj.query)
-        # run_chromedriver() if you have no ANTICAPTCHA_API_KEY
-    driver = run_anticaptcha_chromedriver(ANTICAPTCHA_API_KEY, ANTICAPTCHA_PLUGIN_PATH)
+    driver = run_chromedriver() # if you have no ANTICAPTCHA_API_KEY
+#     driver = run_anticaptcha_chromedriver(ANTICAPTCHA_API_KEY, ANTICAPTCHA_PLUGIN_PATH)
     for idx, query in enumerate(obj.query):
 
         links_per_gpages, gpages = get_link_per_gpage(obj.number[idx])
@@ -469,6 +511,8 @@ def scrape_gsearch(obj, process=None, delete_previous=True):
                 break
 
             obj.link_set |= scrape_gpage_links(soup, process)
+    
+    print('link set length: ', len(obj.link_set))
     driver.quit()
 
 
@@ -492,7 +536,7 @@ def scrape_link_set(obj, save=True, dump=False, path=None, amount=None, process=
     if dump:
         assert path != None, "path should be given"
         directory = os.path.join(path,
-                                 ', '.join([re.sub('"', '', re.sub(r'\+', ' ', query)) for query in obj.query]))
+                 make_filename_safe(', '.join([re.sub(r'\+', ' ', query) for query in obj.query])))
         create_new_folder(directory)
 
     driver = run_chromedriver()
@@ -542,7 +586,7 @@ class Gsearch:
         (num, 100, num);
         """
         if pattern == 'query':
-            indificator = r'\?q=[\w+"]*'
+            indificator = r'\?q=[\w+"\-%0-9]*'
             replacement = r'?q=' + value
         else:
             replacement = '&' + key + '=' + value
@@ -577,6 +621,7 @@ def scrape_query_news_articles(queries, links_num, path=QUERIES_PATH, save=False
     """
     Scrapes articles for every query from Google search news in english 
     Saves them into the object then dumps them into the path
+    Returns Gsearch
     """
 
     search_obj = Gsearch(queries, links_num)
@@ -588,12 +633,9 @@ def scrape_query_news_articles(queries, links_num, path=QUERIES_PATH, save=False
     #     print(search_obj)
 
     scrape_link_set(search_obj, save=save, dump=True, path=path)
-
-# scrape_query_news_articles(argv[1].split(', '), [int(c) for c in argv[2].split(', ')])
+    
+    return Gsearch
+    
+  
 # scrape_query_news_articles('agriculture', 100)
-# scrape_query_news_articles(['bitcoin', 'zimbocash', 'ethereum'], 100)
-
-
-# todo:
-# recaptcha infinite circle
-# ??? sm shutting down
+# scrape_query_news_articles(['bitcoin', 'zimbocash', 'ethereum'], [100, 50, 100])
