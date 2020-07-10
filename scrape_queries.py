@@ -55,6 +55,8 @@ def create_new_folder(path):
     Makes a new folder, even if there exists one
     """
 
+    path = "".join([c for c in path if re.match(r'[\w,. ]', c)])
+
     if os.path.exists(path):
         os.chmod(path, stat.S_IWRITE)  # permission
         shutil.rmtree(path)
@@ -306,7 +308,6 @@ class Link:
         Main function that scrapes google links  
         Scrapes self.url and returns the result to self.data
         """
-#         print('\nstart scraping')
 
         if extract == 'ArticleSentencesExtractor':
             extractor = extractors.ArticleSentencesExtractor()
@@ -315,25 +316,16 @@ class Link:
         else:
             assert False, '!!!Extracter is False!!!'
 
-#         print('\nextractor ready')
-
         content = None
 
         try:
-
-#             print('\nget url: ', self.url)
-
             content = timeout(15, None, extractor.get_content_from_url, self.url)
         except:
-
-#             print('\nusing driver')
-
             try:
                 driver.get(self.url)
                 html = timeout(15, None, driver.execute_script,
                                            "return document.documentElement.innerHTML")
 
-#                 print('\nhtml: ', html)
                 if html:
                     content = timeout(15, None, extractor.get_content, html)
             except Exception as error:
@@ -342,18 +334,10 @@ class Link:
         if not content:
             return None
 
-#         print('\ncontent extracted:', content.encode('utf-8', errors='ignore'))
-
         examine = get_string_size(content) > MIN_SCRAPED_SIZE
-        
-#         print('size examined')
-        
+                
         if SCRAPED_LANGUAGE:
             examine &= (get_string_language(content) == SCRAPED_LANGUAGE)
-
-#         print('language examined')    
-
-#         print('\ncontent examined: ', examine)
 
         if examine:
             if process:
@@ -535,8 +519,8 @@ def scrape_link_set(obj, save=True, dump=False, path=None, amount=None, process=
 
     if dump:
         assert path != None, "path should be given"
-        directory = os.path.join(path,
-                 make_filename_safe(', '.join([re.sub(r'\+', ' ', query) for query in obj.query])))
+        directory = os.path.join(path, make_filename_safe(obj.name))
+                 # make_filename_safe(', '.join([re.sub(r'\+', ' ', query) for query in obj.query])))
         create_new_folder(directory)
 
     driver = run_chromedriver()
@@ -565,8 +549,9 @@ def scrape_link_set(obj, save=True, dump=False, path=None, amount=None, process=
 
 
 class Gsearch:
-    def __init__(self, query, links_number=0):
+    def __init__(self, query, links_number=0, name=None):
         """links_number=0 means all links from gsearch"""
+        self.name = name
         self.query = [re.sub(' ', '+', query) for query in to_list(query)]
         self.number = to_list(links_number)  # max ~350
         self.url = 'https://www.google.com/search?q='
@@ -617,14 +602,14 @@ class Gsearch:
         return subset
 
 
-def scrape_query_news_articles(queries, links_num, path=QUERIES_PATH, save=False):
+def scrape_query_news_articles(queries, links_num, name=None, path=QUERIES_PATH, save=False):
     """
     Scrapes articles for every query from Google search news in english 
     Saves them into the object then dumps them into the path
     Returns Gsearch
     """
 
-    search_obj = Gsearch(queries, links_num)
+    search_obj = Gsearch(queries, links_num, name)
     search_obj.set_url_key('source', 'lnms', 'word')
     search_obj.set_url_key('tbm', 'nws', 'word')
     search_obj.set_url_key('hl', 'en', 'word')
@@ -635,7 +620,3 @@ def scrape_query_news_articles(queries, links_num, path=QUERIES_PATH, save=False
     scrape_link_set(search_obj, save=save, dump=True, path=path)
     
     return Gsearch
-    
-  
-# scrape_query_news_articles('agriculture', 100)
-# scrape_query_news_articles(['bitcoin', 'zimbocash', 'ethereum'], [100, 50, 100])
