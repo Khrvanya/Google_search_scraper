@@ -11,7 +11,7 @@ To start with, if you just need english news dataset on specific topic you may r
 and have: *queries* folder in the same folder with *scrape_queries.py* file. After ending
 there would be a new folder with your dataset (.txt files) in the *queries* folder.
 If there are problems with requirements, look in the code there might be some links to help)
-Also change line 421 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
+Also change line 478 to *driver = run_chromedriver()* if you don't want to pay for solving recaptcha.
 However you'll have problems with recaptcha if you parse > ~300 links (read more below)
 
 
