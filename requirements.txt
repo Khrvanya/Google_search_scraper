@@ -11,7 +11,7 @@ crayons==0.3.1
 cryptography==2.9.2
 idna==2.9
 joblib==0.15.1
-lxml==4.5.1
+lxml==4.6.5
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
