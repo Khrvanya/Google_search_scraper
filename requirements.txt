@@ -17,7 +17,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 morfessor==2.0.6
 nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-numpy==1.18.5
+numpy==1.22.0
 pandas @ file:///C:/ci/pandas_1592833613419/work
 polyglot==16.7.4
 psutil==5.7.0
